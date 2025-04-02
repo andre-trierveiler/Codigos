@@ -1,0 +1,588 @@
+Busca: a
+Código;Tipo;Fonte;Mercado;Descrição
+AEACLA;Taxas e Indicadores;Broadcast;A Vista;ACC de 180 dias - 1º linha - Broadcast
+AEACLB;Taxas e Indicadores;Broadcast;A Vista;ACC de 180 dias - 2º linha - Broadcast
+AEAC3A;Taxas e Indicadores;Broadcast;A Vista;ACC de 30 dias - 1º linha - Broadcast
+AEAC3B;Taxas e Indicadores;Broadcast;A Vista;ACC de 30 dias - 2º linha - Broadcast
+AEAC1A;Taxas e Indicadores;Broadcast;A Vista;ACC de 360 dias - 1º linha - Broadcast
+AEAC1B;Taxas e Indicadores;Broadcast;A Vista;ACC de 360 dias - 2º linha - Broadcast
+AEAC6A;Taxas e Indicadores;Broadcast;A Vista;ACC de 60 dias - 1º linha - Broadcast
+AEAC6B;Taxas e Indicadores;Broadcast;A Vista;ACC de 60 dias - 2º linha - Broadcast
+AEAC9A;Taxas e Indicadores;Broadcast;A Vista;ACC de 90 dias - 1º linha - Broadcast
+AEAC9B;Taxas e Indicadores;Broadcast;A Vista;ACC de 90 dias - 2º linha - Broadcast
+AEPM12;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses di IPC-M - FGV
+AECUBM;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do Custo unitário básico (SP) padrão H8-2N - Sinduscon SP
+AECRSM;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do Custo unitário básico em residência multifamiliar normal - Sinduscon-RS
+AEICM;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do do INCC-10 base dia 10 - FGV
+AEIN12;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do INCC-M - FGV
+AEIA12;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do IPA-10 10 dias - FGV
+AEMIPA;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do IPA-M - FGV
+AEI512;Taxas e Indicadores;Broadcast;A Vista;Acumulado 12 meses do IPCA-15 base 15 dias - IBGE
+AECUBA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do Custo unitário básico (SP) padrão H8-2N - Sinduscon SP
+AECRSA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do Custo unitário básico em residência multifamiliar normal - Sinduscon-RS
+AEICA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do INCC-10 base dia 10 - FGV
+AEINCA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do INCC-M - FGV
+AEIAA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do IPA-10 base 10 dias - FGV
+AEAIPA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do IPA-M - FGV
+AEAIPC;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do IPC-10 base 10 dias - FGV
+AEP15A;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do IPCA-15 base 15 dias - IGBE
+AEPCMA;Taxas e Indicadores;Broadcast;A Vista;Acumulado ano do IPC-M - FGV
+AEPOUA;Taxas e Indicadores;Broadcast;A Vista;Acumulado da poupança ao ano - Broadcast
+AEPOAZ;Taxas e Indicadores;Broadcast;A Vista;Acumulado da poupança ao ano anualizada - Broadcast
+AETBFA;Taxas e Indicadores;Broadcast;A Vista;Acumulado da TBF ao ano - Broadcast
+AETBFZ;Taxas e Indicadores;Broadcast;A Vista;Acumulado da TBF ao ano anualizada - Broadcast
+AETRA;Taxas e Indicadores;Broadcast;A Vista;Acumulado da TR ao ano - Broadcast
+AETRAZ;Taxas e Indicadores;Broadcast;A Vista;Acumulado da TR ao ano anualizada - Broadcast
+AUCP12;Taxas e Indicadores;Broadcast;A Vista;Acumulado em 12 meses do IPC total dos EUA - BLS
+ALGT-DEB620B;Renda Fixa;Bovespa;A Vista;ALGAR TELEC D62
+ALGT-DEB62B0;Renda Fixa;Bovespa;A Vista;ALGAR TELEC D62
+ALGT-DEB62L0;Renda Fixa;Bovespa;A Vista;ALGAR TELEC D62
+ALGT-DEB62L1;Renda Fixa;Bovespa;A Vista;ALGAR TELEC D62
+AEGUSDXZ;Commodities;OTC Metals;A Vista;AMERICAN EAGLE 1/10 OZ, ICE Data Services
+AEGUSDHZ;Commodities;OTC Metals;A Vista;AMERICAN EAGLE 1/2 OZ, ICE Data Services
+AEGUSDQZ;Commodities;OTC Metals;A Vista;AMERICAN EAGLE 1/4 OZ, ICE Data Services
+AEGUSDOZ;Commodities;OTC Metals;A Vista;AMERICAN EAGLE, ICE Data Services
+AVACFB;Taxas e Indicadores;Broadcast;A Vista;Aquisição de veículos, Crédito com recursos livres, Atraso entre 19 e 90 dias, Pessoas físicas, Banco Central  do Brasil
+AVACJB;Taxas e Indicadores;Broadcast;A Vista;Aquisição de veículos, Crédito com recursos livres, Atraso entre 19 e 90 dias, Pessoas jurídicas, Banco Central do Brasil
+AVICFB;Taxas e Indicadores;Broadcast;A Vista;Aquisição de veículos, Crédito com recursos livres, Inadimplência, Pessoas físicas, Banco Central do Brasil
+AVICJB;Taxas e Indicadores;Broadcast;A Vista;Aquisição de veículos, Crédito com recursos livres, Inadimplência, Pessoas jurídicas, Banco Central  do Brasil
+AUNCHFOZ;Commodities;OTC Metals;A Vista;AUSTRALIA NUGGET (CHF), ICE Data Services
+AUNUSDOZ;Commodities;OTC Metals;A Vista;AUSTRALIA NUGGET, ICE Data Services
+AUNUSDXZ;Commodities;OTC Metals;A Vista;AUSTRALIAN NUGGET 1/10 OZ, ICE Data Services
+AUNUSDHZ;Commodities;OTC Metals;A Vista;AUSTRALIAN NUGGET 1/2 OZ, ICE Data Services
+AUNUSDQZ;Commodities;OTC Metals;A Vista;AUSTRALIAN NUGGET 1/4 OZ, ICE Data Services
+ACRUSDOZ;Commodities;OTC Metals;A Vista;AUSTRIAN 100 CORONA, ICE Data Services
+AUSBGSM;Taxas e Indicadores;Ind. Macro;A Vista;Balança comercial - bens e serviços, Australia - Action Economics
+AUSCABQ;Taxas e Indicadores;Ind. Macro;A Vista;Balança Comercial AUD, Australia - Action Economics
+ARGTBHSDM;Taxas e Indicadores;Ind. Macro;A Vista;Balança Comercial USD, Argentina - Action Economics
+AEKG6A;Taxas e Indicadores;Broadcast;A Vista;Capital de giro prefixado de 180 dias - 1ª linha - Broadcast
+AEKGA;Taxas e Indicadores;Broadcast;A Vista;Capital de giro prefixado de 30 dias - 1ª linha - Broadcast
+AEKG1A;Taxas e Indicadores;Broadcast;A Vista;Capital de giro prefixado de 360 dias - 1ª linha - Broadcast
+AEKG2A;Taxas e Indicadores;Broadcast;A Vista;Capital de giro prefixado de 720 dias - 1ª linha - Broadcast
+AGRU-DEB210B;Renda Fixa;Bovespa;A Vista;Conc. do Aeroporto Internacional de Guarulhos S.A., Renda Fixa - Liquidação Bruta em D+0
+AGRU-DEB21B0;Renda Fixa;Bovespa;A Vista;Conc. do Aeroporto Internacional de Guarulhos S.A., Renda Fixa - Liquidação Bruta em D+0
+AGRU-DEB21L0;Renda Fixa;Bovespa;A Vista;Conc. do Aeroporto Internacional de Guarulhos S.A., Renda Fixa - Liquidação Bruta em D+0
+AGRU-DEB21L1;Renda Fixa;Bovespa;A Vista;Conc. do Aeroporto Internacional de Guarulhos S.A., Renda Fixa - Liquidação Bruta em D+0
+AEUCPI;Taxas e Indicadores;Broadcast;A Vista;Consumer Price Index (CPI)
+AECUB;Taxas e Indicadores;Broadcast;A Vista;Custo unitário básico (SP) padrão H8-2N - Sinduscon SP
+AECUMG;Taxas e Indicadores;Broadcast;A Vista;Custo unitário básico de residência multifamiliar normal - Sinduscon-MG
+AEC2RS;Taxas e Indicadores;Broadcast;A Vista;Custo unitário básico em R$/m² - Sinduscon-RS
+AECURS;Taxas e Indicadores;Broadcast;A Vista;Custo unitário básico em residência multifamiliar normal - Sinduscon-RS
+AEGP14AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 1,8%, vcto. 05/02/2025 - Anbima
+AEGP19AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 1,9%, vcto. 04/10/2028 - Anbima
+AEGP17AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 2,15%, vcto. 12/04/2027 - Anbima
+AEGPA1AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 2,45%, vcto. 02/09/2029 - Anbima
+AEGPA7AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 2,75%, vcto. 15/09/2026 - Anbima
+AEGPA9AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 2,75%, vcto. 25/06/2029 - Anbima
+AEGPB7AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 2,95%, vcto. 15/09/2028 - Anbima
+AEGPA3AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 3%, vcto. 15/03/2026 - Anbima
+AEGPA4AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, DI + 3,47%, vcto. 25/10/2028 - Anbima
+AEGP23AN;Renda Fixa;Broadcast;A Vista;Debênture, AEGEA SANEAMENTO E PARTICIPAÇÕES S/A, IPCA + 7,0825%, vcto. 15/07/2025 - Anbima
+AERI12AN;Renda Fixa;Broadcast;A Vista;Debênture, AERIS INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA GERACAO DE ENERGIA S.A, DI + 2%, vcto. 31/07/2026 - Anbima
+AERI11AN;Renda Fixa;Broadcast;A Vista;Debênture, AERIS INDUSTRIA E COMERCIO DE EQUIPAMENTOS PARA GERACAO DE ENERGIA S.A, DI + 2,9%, vcto. 15/01/2026 - Anbima
+AESB11AN;Renda Fixa;Broadcast;A Vista;Debênture, AES BRASIL ENERGIA S.A., DI + 2,3%, vcto. 10/03/2025 - Anbima
+AEAB11AN;Renda Fixa;Broadcast;A Vista;Debênture, AES CAJUINA AB1 HOLDINGS S.A., IPCA + 7,0718%, vcto. 15/06/2044 - Anbima
+AESOA1AN;Renda Fixa;Broadcast;A Vista;Debênture, AES TIETE ENERGIA S/A, IPCA + 6,4966%, vcto. 15/03/2038 - Anbima
+AETE11AN;Renda Fixa;Broadcast;A Vista;Debênture, AETE - AMAZONIA EMPRESA TRANSMISSORA DE ENERGIA S.A., DI + 2,7%, vcto. 10/09/2026 - Anbima
+AGAU13AN;Renda Fixa;Broadcast;A Vista;Debênture, AGASUS S.A., DI + 4,5%, vcto. 15/03/2027 - Anbima
+AGAU12AN;Renda Fixa;Broadcast;A Vista;Debênture, AGASUS S.A., DI + 5,75%, vcto. 25/07/2025 - Anbima
+AGVF12AN;Renda Fixa;Broadcast;A Vista;Debênture, AGRO INDUSTRIAS DO VALE DO SAO FRANCISCO SA - AGROVALE, IPCA + 6,7686%, vcto. 15/08/2027 - Anbima
+ASER12AN;Renda Fixa;Broadcast;A Vista;Debênture, AGUAS DO SERTAO S.A., IPCA + 8,4051%, vcto. 15/12/2043 - Anbima
+ALGA19AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, DI + 0,7%, vcto. 10/10/2024 - Anbima
+ALGA28AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, DI + 0,9%, vcto. 15/02/2026 - Anbima
+ALGAA2AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, DI + 1,55%, vcto. 15/01/2029 - Anbima
+ALGAA1AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, DI + 1,6%, vcto. 15/07/2028 - Anbima
+ALGTA3AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, DI + 2%, vcto. 17/02/2027 - Anbima
+ALGAB1AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, IPCA + 4,9999%, vcto. 15/07/2031 - Anbima
+ALGA27AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, IPCA + 5,5395%, vcto. 15/03/2025 - Anbima
+ALGAC2AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, IPCA + 5,8806%, vcto. 15/01/2032 - Anbima
+ALGTA4AN;Renda Fixa;Broadcast;A Vista;Debênture, ALGAR TELECOM S/A, IPCA + 6,3243%, vcto. 15/11/2033 - Anbima
+ALIG12AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANCA GERACAO DE ENERGIA S.A, IPCA + 3,65%, vcto. 15/12/2029 - Anbima
+ALIG13AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANCA GERACAO DE ENERGIA S.A, IPCA + 4%, vcto. 15/02/2035 - Anbima
+ALIG15AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANCA GERACAO DE ENERGIA S.A, IPCA + 6,1305%, vcto. 15/04/2036 - Anbima
+ALGE16AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANÇA GERAÇÃO DE ENERGIA S.A, IPCA + 6,1451%, vcto. 15/11/2037 - Anbima
+ALSO16AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANSCE SONAE SHOPPING CENTER S/A, DI + 1,35%, vcto. 26/08/2027 - Anbima
+ALSO15AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANSCE SONAE SHOPPING CENTER S/A, DI + 1,43%, vcto. 15/03/2027 - Anbima
+ALSO25AN;Renda Fixa;Broadcast;A Vista;Debênture, ALIANSCE SONAE SHOPPING CENTER S/A, DI + 1,55%, vcto. 15/03/2029 - Anbima
+ALPA12AN;Renda Fixa;Broadcast;A Vista;Debênture, ALPARGATAS S.A., DI + 1,35%, vcto. 12/12/2027 - Anbima
+ALSR12AN;Renda Fixa;Broadcast;A Vista;Debênture, ALSOL ENERGIAS RENOVÁVEIS S/A, DI + 2,35%, vcto. 15/03/2025 - Anbima
+ALTF11AN;Renda Fixa;Broadcast;A Vista;Debênture, ALTHAIA S.A. INDUSTRIA FARMACEUTICA, DI + 2,3%, vcto. 15/01/2027 - Anbima
+ALMC12AN;Renda Fixa;Broadcast;A Vista;Debênture, ALUBAR METAIS E CABOS S.A, DI + 4,8%, vcto. 10/06/2027 - Anbima
+ALUP17AN;Renda Fixa;Broadcast;A Vista;Debênture, ALUPAR INVESTIMENTO S/A, DI + 1,4%, vcto. 15/10/2025 - Anbima
+AMBP16AN;Renda Fixa;Broadcast;A Vista;Debênture, AMBIPAR PARTICIPACOES E EMPREENDIMENTOS S/A, DI + 2,75%, vcto. 25/04/2029 - Anbima
+ANET11AN;Renda Fixa;Broadcast;A Vista;Debênture, AMERICA NET S.A., IPCA + 5,6006%, vcto. 15/03/2029 - Anbima
+ANET12AN;Renda Fixa;Broadcast;A Vista;Debênture, AMERICA NET S.A., IPCA + 8,9619%, vcto. 15/11/2030 - Anbima
+ANEM11AN;Renda Fixa;Broadcast;A Vista;Debênture, ANEMUS WIND HOLDING S.A, IPCA + 7,2856%, vcto. 15/06/2039 - Anbima
+ARML14AN;Renda Fixa;Broadcast;A Vista;Debênture, ARMAC LOCACAO LOGISTICA E SERVICOS S.A., DI + 1,9%, vcto. 15/03/2032 - Anbima
+ARML13AN;Renda Fixa;Broadcast;A Vista;Debênture, ARMAC LOCACAO LOGISTICA E SERVICOS S.A., DI + 2,25%, vcto. 04/11/2029 - Anbima
+ARML12AN;Renda Fixa;Broadcast;A Vista;Debênture, ARMAC LOCACAO LOGISTICA E SERVICOS S.A., DI + 2,5%, vcto. 25/11/2028 - Anbima
+ARTRA1AN;Renda Fixa;Broadcast;A Vista;Debênture, ARTERIS S/A, DI + 1,65%, vcto. 11/03/2027 - Anbima
+ARTRA5AN;Renda Fixa;Broadcast;A Vista;Debênture, ARTERIS S/A, DI + 2,4%, vcto. 12/04/2029 - Anbima
+ARTR29AN;Renda Fixa;Broadcast;A Vista;Debênture, ARTERIS S/A, DI + 2,5%, vcto. 15/09/2025 - Anbima
+ARTRA4AN;Renda Fixa;Broadcast;A Vista;Debênture, ARTERIS S/A, DI + 2,7%, vcto. 24/08/2028 - Anbima
+ARTR19AN;Renda Fixa;Broadcast;A Vista;Debênture, ARTERIS S/A, IPCA + 4,8392%, vcto. 15/09/2027 - Anbima
+ASSR21AN;Renda Fixa;Broadcast;A Vista;Debênture, ASSURUA 5 ENERGIA S.A, IPCA + 7,1071%, vcto. 15/06/2041 - Anbima
+ACRC21AN;Renda Fixa;Broadcast;A Vista;Debênture, ATLAS LUIZ CARLOS COMERCIALIZADORA DE ENERGIA S.A., IPCA + 7,415%, vcto. 15/07/2044 - Anbima
+AALM11AN;Renda Fixa;Broadcast;A Vista;Debênture, AURA ALMAS MINERACAO S.A., DI + 4,35%, vcto. 13/07/2026 - Anbima
+AURE12AN;Renda Fixa;Broadcast;A Vista;Debênture, AUREN ENERGIA S.A., IPCA + 6,298%, vcto. 15/04/2034 - Anbima
+APFD19AN;Renda Fixa;Broadcast;A Vista;Debênture, AUTOPISTA FERNAO DIAS S/A, IPCA + 6,3854%, vcto. 15/09/2031 - Anbima
+APPSB2AN;Renda Fixa;Broadcast;A Vista;Debênture, AUTOPISTA PLANALTO SUL S/A, DI + 2,15%, vcto. 15/09/2028 - Anbima
+APRB28AN;Renda Fixa;Broadcast;A Vista;Debênture, AUTOPISTA REGIS BITTENCOURT S/A, DI + 0,86%, vcto. 15/06/2027 - Anbima
+APRB18AN;Renda Fixa;Broadcast;A Vista;Debênture, AUTOPISTA REGIS BITTENCOURT S/A, IPCA + 4,5%, vcto. 15/06/2031 - Anbima
+AALR13AN;Renda Fixa;Broadcast;A Vista;Debênture, CENTRO DE IMAGEM DIAGNOSTICOS S/A, DI + 2,75%, vcto. 04/10/2027 - Anbima
+ASCP13AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESS. ROD. A. S. E C. PINTO S/A - ECOPISTAS, IPCA + 7,55%, vcto. 15/03/2030 - Anbima
+ASCP23AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESS. ROD. A. S. E C. PINTO S/A - ECOPISTAS, IPCA + 8,15%, vcto. 15/03/2035 - Anbima
+AGRU12AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A, IPCA + 6,4%, vcto. 15/10/2026 - Anbima
+AGRU11AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A, IPCA + 7,86%, vcto. 15/03/2025 - Anbima
+AGRU21AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A, IPCA + 7,86%, vcto. 15/06/2025 - Anbima
+AGRU31AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A, IPCA + 7,86%, vcto. 15/09/2025 - Anbima
+AGRU41AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO AEROPORTO INTERNACIONAL DE GUARULHOS S/A, IPCA + 7,86%, vcto. 15/12/2025 - Anbima
+ANHBA3AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO SISTEMA ANHANGUERA-BANDEIRANTES S/A, DI + 1,2%, vcto. 15/09/2027 - Anbima
+ANHB10AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO SISTEMA ANHANGUERA-BANDEIRANTES S/A, DI + 1,2%, vcto. 21/10/2026 - Anbima
+ANHBA2AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO SISTEMA ANHANGUERA-BANDEIRANTES S/A, DI + 1,3%, vcto. 04/11/2026 - Anbima
+ANHBA4AN;Renda Fixa;Broadcast;A Vista;Debênture, CONCESSIONÁRIA DO SISTEMA ANHANGUERA-BANDEIRANTES S/A, DI + 2,14%, vcto. 14/06/2028 - Anbima
+AEGE16AN;Renda Fixa;Broadcast;A Vista;Debênture, EQUIPAV SANEAMENTO S.A., DI + 3,9%, vcto. 11/03/2034 - Anbima
+AESL17AN;Renda Fixa;Broadcast;A Vista;Debênture, RGE SUL DISTRIBUIDORA DE ENERGIA S/A, IPCA + 5,8%, vcto. 15/08/2025 - Anbima
+AESLA7AN;Renda Fixa;Broadcast;A Vista;Debênture, RGE SUL DISTRIBUIDORA DE ENERGIA S/A, IPCA + 6,1409%, vcto. 15/04/2034 - Anbima
+AESLA5AN;Renda Fixa;Broadcast;A Vista;Debênture, RGE SUL DISTRIBUIDORA DE ENERGIA S/A, IPCA + 6,1774%, vcto. 15/10/2033 - Anbima
+AESLB7AN;Renda Fixa;Broadcast;A Vista;Debênture, RGE SUL DISTRIBUIDORA DE ENERGIA S/A, IPCA + 6,2031%, vcto. 15/04/2039 - Anbima
+ASAIA0AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,25%, vcto. 20/06/2029 - Anbima
+ASAI19AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,25%, vcto. 25/03/2029 - Anbima
+ASAI12AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,7%, vcto. 20/05/2026 - Anbima
+ASAI14AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,75%, vcto. 26/11/2027 - Anbima
+ASAI18AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,85%, vcto. 22/12/2027 - Anbima
+ASAI22AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,95%, vcto. 20/05/2028 - Anbima
+ASAI28AN;Renda Fixa;Broadcast;A Vista;Debênture, SENDAS DISTRIBUIDORA S/A, DI + 1,95%, vcto. 22/12/2028 - Anbima
+AEDESA;Taxas e Indicadores;Broadcast;A Vista;Desconto de duplicata de 30 dias - 1ª linha - Broadcast
+AEDIF-AE;Taxas e Indicadores;Broadcast;A Vista;Diferencial de inflação
+AESLEA;Taxas e Indicadores;Broadcast;A Vista;Estimativa Selic - Anbima
+AEEPM-AE;Taxas e Indicadores;Broadcast;A Vista;Expectativa de prêmio de mercado
+ASAU03;Taxas e Indicadores;Broadcast;A Vista;Exportação de veículos
+AEBBC1;Taxas e Indicadores;Broadcast;A Vista;Exportações da balança comercial em US$ milhões do Brasil - MDIC
+AECDIM;Taxas e Indicadores;Broadcast;A Vista;Fator acumulado até o mês corrente do CDI Cetip DI extra - Cetip
+AEFAJ;Taxas e Indicadores;Broadcast;A Vista;Fator de juros base pro-rata da TR contrato a partir de 01.07.94 - Fenaseg
+AECDIA;Taxas e Indicadores;Broadcast;A Vista;Fator DI acumulado - Cetip
+AEFI6A;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 180 dias - 1ª linha - Broadcast
+AEFI6B;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 180 dias - 2ª linha - Broadcast
+AEFI3A;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 30 dias - 1ª linha - Broadcast
+AEFI3B;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 30 dias - 2ª linha - Broadcast
+AEFI1A;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 360 dias - 1ª linha - Broadcast
+AEFI1B;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 360 dias - 2ª linha - Broadcast
+AEFISA;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 60 dias - 1ª linha - Broadcast
+AEFISB;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 60 dias - 2ª linha - Broadcast
+AEFI9A;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 90 dias - 1ª linha - Broadcast
+AEFI9B;Taxas e Indicadores;Broadcast;A Vista;Financiamento à importação de 90 dias - 2ª linha - Broadcast
+AUSHF;Taxas e Indicadores;Ind. Macro;A Vista;Financiamento de imóveis, Australia - Action Economics
+AUGUSDRT;Commodities;OTC Metals;A Vista;GOLD/SILVER RATIO, ICE Data Services
+AEHMA;Taxas e Indicadores;Broadcast;A Vista;Hot money over - 1ª linha - Broadcast
+AEBCP1;Taxas e Indicadores;Broadcast;A Vista;Imóveis financiados, Aquisição, ABECIP
+AEBCP;Taxas e Indicadores;Broadcast;A Vista;Imóveis financiados, Construção, ABECIP
+AEBCP2;Taxas e Indicadores;Broadcast;A Vista;Imóveis financiados, Total, ABECIP
+AEBBC2;Taxas e Indicadores;Broadcast;A Vista;Importações da balança comercial em US$ milhões do Brasil - MDIC
+AEUIS1;Taxas e Indicadores;Broadcast;A Vista;Índice de atividade da economia nos setores de produção e emprego dos EUA - ISM
+AEUCO2;Taxas e Indicadores;Broadcast;A Vista;Índice de confiança do consumidor, EUA
+AUSWCIM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de Custo Salarial, Australia - Action Economics
+ARGCPIMM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M, Argentina - Action Economics
+ARGCPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y, Argentina - Action Economics
+AUSCPIQ;Taxas e Indicadores;Ind. Macro;A Vista;Índice de Preços ao Consumidor Q/Q, Australia - Action Economics
+AUSPPIQ;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao produtor, Australia - Action Economics
+AEUIS2;Taxas e Indicadores;Broadcast;A Vista;Índice de preços pagos aos produtores dos EUA - ISM
+AETJD;Taxas e Indicadores;Broadcast;A Vista;Índice de reajuste de débitos de Tribunal de Justiça de São Paulo  - TJSP
+AEUCO1;Taxas e Indicadores;Broadcast;A Vista;Índice de sentimento do consumidor dos EUA - UMCH
+AEICTP;Taxas e Indicadores;Broadcast;A Vista;Índice DI para operações futuras - Cetip
+AEIDTR;Taxas e Indicadores;Broadcast;A Vista;Índice diário da TR base no juros pro-rata TR - contrato até 30.06.94 - Fenaseg
+AESNP1;Taxas e Indicadores;Broadcast;A Vista;Índice Nacional de construção Civil (SINAPI -IBGE) por ano, IBGE
+AESNP;Taxas e Indicadores;Broadcast;A Vista;Índice Nacional de construção Civil (SINAPI -IBGE) por mês, IBGE
+ASTI02;Taxas e Indicadores;Broadcast;A Vista;IST - variação acumulada - Anatel
+AEFEDD;Taxas e Indicadores;Broadcast;A Vista;Juros - média diária (Funds - FED)
+AEB007;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "CUST ENDIV EM DOLAR " cód 007, em % a.a. - BNDES
+AEB002;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "I.R..635" cód 002, em % a.a. - BNDES
+AEB185;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "IPCA TLP" cód. 185, valores em reais - BNDES
+AEB001;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "J.RES.635" cód 001, em % a.a. - BNDES
+AEB008;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "JURO FIXO PRE-EMBAR" cód 008, em a.a. - BNDES
+AEB639;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "LIB" cód 639, em real brasileiro - BNDES
+AEB143;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 143, em número índice - BNDES
+AB143B;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 143, informação D+1, em número índice - BNDES
+AEB147;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 147, em número índice - BNDES
+AB147B;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 147, informação D+1, em número índice - BNDES
+AEB149;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 149, em número índice - BNDES
+AB149B;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUM. D-2" cód 149, informação D+1, em número índice - BNDES
+AEB142;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC ACUMULADA" cód 142, em número índice - BNDES
+AEB052;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC D-10" cód 052, em número índice - BNDES
+AB052B;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "SELIC D-10" cód 052, informação D+1, em número índice - BNDES
+AEB006;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "T.JUROS RES.635/87" cód 006, em % a.a. - BNDES
+AB3630;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 36.30, em % a.a. - BNDES
+AB3660;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 36.60, em  % a.a. - BNDES
+AB6030;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 60.30, em  % a.a. - BNDES
+AB6060;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 60.60, em  % a.a. - BNDES
+AB8430;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 84.30, em  % a.a. - BNDES
+AB8460;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TFB" cód 84.60, em  % a.a. - BNDES
+AEB319;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TJ PRO-360" cód 319, em número índice - BNDES
+AEB318;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TJ PRO-365" cód 318,  em número índice - BNDES
+AEB311;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TJLP" cód 311, em % a.a. - BNDES
+AEB236;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TLP" cód 236, em % a.m. - BNDES
+AEB777;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TLP" cód 777, em % a.a. - BNDES
+AEB202;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TR DERIVADA 226" cód. 202, valores em reais - BNDES
+AEB200;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TR" cód. 200, em % a.m. - BNDES
+AEF136;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TRL-136" cód. 136 - FINEP
+AEB009;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "TX. REFER. EM IPCA" cód 009, em % a.a. - BNDES
+AEB590;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "UMBND" cód 590, número índice - BNDES
+AEB180;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "UMIPCA" cód 180, em número índice - BNDES
+AEB468;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "UR1516" cód 468, número índice - BNDES
+AEB354;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URBT01" cód 354, em número índice - BNDES
+AEB398;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URIP09" cód 398, em número índice - BNDES
+AEB405;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URIP15" cód 405, em número índice - BNDES
+AEB501;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URTJ01" cód 501 - número índice - BNDES
+AEB535;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URTJ15" cód 535, em número índice - BNDES
+AEB321;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URTJLP 365/366" cód 321, em número índice - BNDES
+AEB314;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URTJLP" cód 314, em número índice - BNDES
+AEF021;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "URTR" cód. 021 - FINEP
+AEB604;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla "USS" cód 604, em real brasileiro - BNDES
+AEB024;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla SOBRETAXA FIXA SELIC cód 024, em a.a. - BNDES
+AB12030;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 120.30, em  % a.a. - BNDES
+AB12060;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 120.60, em  % a.a. - BNDES
+AB12090;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 120.90, em  % a.a. - BNDES
+AB3690;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 36.90, em  % a.a. - BNDES
+AB6090;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 60.90, em  % a.a. - BNDES
+AB8490;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TFB cód 84.90, em  % a.a. - BNDES
+AEB018;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla TX RF IPCA 49 A 72M cód. 018, em a.a. - BNDES
+AEB184;Taxas e Indicadores;Broadcast;A Vista;Moeda contratual sigla UMIPCA-M (Cód: 184) cód. 184, em número-índice - BNDES
+AUSBAM;Taxas e Indicadores;Ind. Macro;A Vista;Número de hipotecas aprovadas, Australia - Action Economics
+AEBPIN;Taxas e Indicadores;Broadcast;A Vista;Número índice da produção industrial do Brasil s/ajuste sazonal - IBGE
+AEIIGD;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IGP-DI - FGV
+AEIIGP;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IGP-M - FGV
+AEIICD;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do INCC-DI - FGV
+AEIICM;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do INCC-M - FGV
+AEIINP;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do INPC -IBGE
+AEIIAD;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPA-EP - FGV (Antigo IPA-DI)
+AEIIAM;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPA-M - FGV
+AEIIPC;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPC - Fipe-SP
+AEIICA;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPCA - IBGE
+AEIIPD;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPC-DI - FGV
+AEIIPM;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPC-M - FGV
+ASTI03;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IST - Anatel
+AEICUB;Taxas e Indicadores;Broadcast;A Vista;Número Índice do Custo unitário básico (SP) padrão H8-2N - Sinduscon SP
+AEICMG;Taxas e Indicadores;Broadcast;A Vista;Número Índice do Custo unitário básico de residência multifamiliar normal - Sinduscon-MG
+AEIMA;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA-Geral - Anbima
+AEIRFM;Taxas e Indicadores;Broadcast;A Vista;Número índice do IRF-M composto por LTN e NTN-F (Prefixado) - Anbima
+AEBVV1;Taxas e Indicadores;Broadcast;A Vista;Número índice do volume de vendas no comercio varejista do Brasil - IBGE
+AEIGPR;Taxas e Indicadores;Broadcast;A Vista;Número índice pro-rata do IGP-M - Broadcast
+AEIPPR;Taxas e Indicadores;Broadcast;A Vista;Número índice pro-rata do IPCA - Broadcast
+AEBCP3;Taxas e Indicadores;Broadcast;A Vista;Operações contratadas, ABECIP
+AEBCP4;Taxas e Indicadores;Broadcast;A Vista;Operações contratadas, Aquisição, ABECIP
+AEBCP5;Taxas e Indicadores;Broadcast;A Vista;Operações contratadas, Total, ABECIP
+AEFS17;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião  - Banco Central
+AEFS18;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião  - Banco Central
+AEFSM3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 01 de 2025 - Banco Central
+AEFS11;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 01 de 2026 - Banco Central
+AEFSM4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 02 de 2025 - Banco Central
+AEFS12;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 02 de 2026 - Banco Central
+AEFSM5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 03 de 2025 - Banco Central
+AEFS13;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 03 de 2026 - Banco Central
+AEFSM6;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 04 de 2025 - Banco Central
+AEFS14;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 04 de 2026 - Banco Central
+AEFSM7;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 05 de 2025 - Banco Central
+AEFS15;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 05 de 2026 - Banco Central
+AEFSM8;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 06 de 2025 - Banco Central
+AEFS16;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 06 de 2026 - Banco Central
+AEFSM1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 07 de 2024 - Banco Central
+AEFSM9;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 07 de 2025 - Banco Central
+AEFSM2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 08 de 2024 - Banco Central
+AEFS10;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para a reunião 08 de 2025 - Banco Central
+AEFSA1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para o final do período de 2024 - Banco Central
+AEFSA2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para o final do período de 2025 - Banco Central
+AEFSA3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para o final do período de 2026 - Banco Central
+AEFSA4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para o final do período de 2027 - Banco Central
+AEFSA5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média da SELIC para o final do período de 2028 - Banco Central
+AEFDM4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 01/2025 - Banco Central
+AEFD16;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 01/2026 - Banco Central
+AEFDM5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 02/2025 - Banco Central
+AEFD17;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 02/2026 - Banco Central
+AEFDM6;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 03/2025 - Banco Central
+AEFD18;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 03/2026 - Banco Central
+AEFDM7;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 04/2025 - Banco Central
+AEFDM8;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 05/2025 - Banco Central
+AEFDM9;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 06/2025 - Banco Central
+AEFD10;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 07/2025 - Banco Central
+AEFD11;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 08/2025 - Banco Central
+AEFD12;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 09/2025 - Banco Central
+AEFDM1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 10/2024 - Banco Central
+AEFD13;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 10/2025 - Banco Central
+AEFDM2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 11/2024 - Banco Central
+AEFD14;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 11/2025 - Banco Central
+AEFDM3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 12/2024 - Banco Central
+AEFD15;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 12/2025 - Banco Central
+AEFDA1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 2024 - Banco Central
+AEFDA2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 2025 - Banco Central
+AEFDA3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 2026 - Banco Central
+AEFDA4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 2027 - Banco Central
+AEFDA5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, taxa média do câmbio para o final do período de 2028 - Banco Central
+AEFGM4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 01/2025 - Banco Central
+AEFG16;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 01/2026 - Banco Central
+AEFGM5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 02/2025 - Banco Central
+AEFG17;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 02/2026 - Banco Central
+AEFGM6;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 03/2025 - Banco Central
+AEFG18;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 03/2026 - Banco Central
+AEFGM7;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 04/2025 - Banco Central
+AEFGM8;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 05/2025 - Banco Central
+AEFGM9;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 06/2025 - Banco Central
+AEFG10;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 07/2025 - Banco Central
+AEFG11;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 08/2025 - Banco Central
+AEFG12;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 09/2025 - Banco Central
+AEFGM1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 10/2024 - Banco Central
+AEFG13;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 10/2025 - Banco Central
+AEFGM2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 11/2024 - Banco Central
+AEFG14;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 11/2025 - Banco Central
+AEFGM3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 12/2024 - Banco Central
+AEFG15;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 12/2025 - Banco Central
+AEFGA1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 2024 - Banco Central
+AEFGA2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 2025 - Banco Central
+AEFGA3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 2026 - Banco Central
+AEFGA4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 2027 - Banco Central
+AEFGA5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IGP-M para o final do período de 2028 - Banco Central
+AEFCM5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 01/2025 - Banco Central
+AEFC17;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 01/2026 - Banco Central
+AEFCM6;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 02/2025 - Banco Central
+AEFC18;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 02/2026 - Banco Central
+AEFCM7;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 03/2025 - Banco Central
+AEFCM8;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 04/2025 - Banco Central
+AEFCM9;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 05/2025 - Banco Central
+AEFC10;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 06/2025 - Banco Central
+AEFC11;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 07/2025 - Banco Central
+AEFC12;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 08/2025 - Banco Central
+AEFCM1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 09/2024 - Banco Central
+AEFC13;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 09/2025 - Banco Central
+AEFCM2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 10/2024 - Banco Central
+AEFC14;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 10/2025 - Banco Central
+AEFCM3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 11/2024 - Banco Central
+AEFC15;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 11/2025 - Banco Central
+AEFCM4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 12/2024 - Banco Central
+AEFC16;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 12/2025 - Banco Central
+AEFCA1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 2024 - Banco Central
+AEFCA2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 2025 - Banco Central
+AEFCA3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 2026 - Banco Central
+AEFCA4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 2027 - Banco Central
+AEFCA5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do IPCA para o final do período de 2028 - Banco Central
+AEFPA1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil acumulado no período 2024 - Banco Central
+AEFPA2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil acumulado no período 2025 - Banco Central
+AEFPA3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil acumulado no período 2026 - Banco Central
+AEFPA4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil acumulado no período 2027 - Banco Central
+AEFPA5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil acumulado no período 2028 - Banco Central
+AEFPT3;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 1º tri - Banco Central
+AEFPT4;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 2º tri - Banco Central
+AEFPT1;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 3º tri - Banco Central
+AEFPT5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 3º tri - Banco Central
+AEFPT2;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 4º tri - Banco Central
+AEFPT6;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação média do PIB do Brasil para o final do período do 4º tri - Banco Central
+AEFCT5;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação mediana acumulada no ano, indicador top 5 do IPCA para 2024 - Banco Central
+AEFCSU;Taxas e Indicadores;Broadcast;A Vista;Pesquisa Focus, variação mediana acumulada nos próx. 12 meses, inflação suavizada do IPCA para 2024 - Banco Central
+AUSEQ;Taxas e Indicadores;Ind. Macro;A Vista;Preços de Exportação, Australia - Action Economics
+AUSIQ;Taxas e Indicadores;Ind. Macro;A Vista;Preços de Importação, Australia - Action Economics
+AUSPNCEQ;Taxas e Indicadores;Ind. Macro;A Vista;Private New Capital Expenditure, Australia - Action Economics
+ASAU01;Taxas e Indicadores;Broadcast;A Vista;Produção de veículos
+ARGIPM;Taxas e Indicadores;Ind. Macro;A Vista;Produção industrial Y/Y, Argentina - Action Economics
+ASAM06;Taxas e Indicadores;Broadcast;A Vista;Produção mundial de aço bruto - Brasil
+ASAM02;Taxas e Indicadores;Broadcast;A Vista;Produção mundial de aço bruto - China
+ASAM04;Taxas e Indicadores;Broadcast;A Vista;Produção mundial de aço bruto - EUA
+ASAM03;Taxas e Indicadores;Broadcast;A Vista;Produção mundial de aço bruto - Japão
+ASAM01;Taxas e Indicadores;Broadcast;A Vista;Produção mundial de aço bruto - total mundial
+AEPDV1;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para 1 semana - Broadcast
+AEPDV3;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para final do ano de 2017 - Broadcast
+AEPDV6;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para final do ano de 2018 - Broadcast
+AEPDV2;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para final do mês de dezembro - Broadcast
+AEPDV4;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para o 1º trimestre de 2017 - Broadcast
+AEPDV5;Taxas e Indicadores;Broadcast;A Vista;Projeção de dólar para o 2º trimestre de 2017 - Broadcast
+AEIGPP;Taxas e Indicadores;Broadcast;A Vista;Projeção do IGP-M para o mês corrente - Anbima
+AEIG2P;Taxas e Indicadores;Broadcast;A Vista;Projeção do IGP-M para o mês posterior - Anbima
+AEIPCP;Taxas e Indicadores;Broadcast;A Vista;Projeção do IPCA para o mês corrente - Anbima
+AEIP2P;Taxas e Indicadores;Broadcast;A Vista;Projeção do IPCA para o mês posterior - Anbima
+AENPOP;Taxas e Indicadores;Broadcast;A Vista;Rendimento da poupança com aniversário hoje depósitos a partir 04.05.12 - BCB
+AEPOUP;Taxas e Indicadores;Broadcast;A Vista;Rendimento da poupança com aniversário hoje depósitos até 03.05.12 - BCB
+AEPOUF;Taxas e Indicadores;Broadcast;A Vista;Rendimento da poupança com depósito até 03.05.12 - BCB
+AEPOUN;Taxas e Indicadores;Broadcast;A Vista;Rendimento da poupança para depósitos a partir de 04.05.12 - BCB
+AESMIN;Taxas e Indicadores;Broadcast;A Vista;Salário mínimo nacional do Brasil - Governo Federal
+AECCSC;Taxas e Indicadores;Broadcast;A Vista;Saldo comercial do câmbio contratado (Fluxo Cambial) do Brasil - BCB
+AEABCM;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial da Argentina - Indec
+AENBCM;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial da China - OCDE
+AECBCM;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial do Chile - BC do Chile
+AEPBCM;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial do Peru - BC do Peru
+AEUBCM;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial dos EUA - BEA
+AEBBC3;Taxas e Indicadores;Broadcast;A Vista;Saldo da balança comercial em US$ milhões do Brasil - MDIC
+AEBCED;Taxas e Indicadores;Broadcast;A Vista;Saldo diário de capital externo em investimento estrangeiro, em milhões de reais, Bovespa
+AEACTE;Taxas e Indicadores;Broadcast;A Vista;Saldo em conta corrente da balança comercial da Argentina - Indec
+AECCTE;Taxas e Indicadores;Broadcast;A Vista;Saldo em conta corrente da balança de pagamento do Chile em milhões - BC do Chile
+AEMCTE;Taxas e Indicadores;Broadcast;A Vista;Saldo em conta corrente do balanço de pagamentos da México - BC do México
+AEUCTE;Taxas e Indicadores;Broadcast;A Vista;Saldo em conta corrente do balanço de pagamentos dos EUA - BEA
+AEBBP1;Taxas e Indicadores;Broadcast;A Vista;Saldo em transação corrente da balanço de pagamentos do Brasil - BCB
+AECCSF;Taxas e Indicadores;Broadcast;A Vista;Saldo financeiro do câmbio contratado do Brasil - BCB
+AEMBCM;Taxas e Indicadores;Broadcast;A Vista;Saldo mensal da balança comercial - México
+AEBCEM;Taxas e Indicadores;Broadcast;A Vista;Saldo mensal de capital externo em investimento estrangeiro, em bilhões de reais, Bovespa
+AEBCEA;Taxas e Indicadores;Broadcast;A Vista;Saldo no ano de capital externo em investimento estrangeiro, em bilhões de reais, Bovespa
+AEINPM;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada 12 meses do INPC - IBGE
+AEQJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa anual de juros do Equador - BC do Equador
+AEIJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa anual de juros do Paraguai - BC do Paraguai
+AEYJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa anual de juros do Uruguai - BC do Uruguai
+AESLIC;Taxas e Indicadores;Broadcast;A Vista;Taxa anual referencial Selic - BCB
+AEPRE3;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDB prefixado 30 dias para grandes quantias - Broadcast
+AEPREM;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDB prefixado 30 dias para médias quantias - Broadcast
+AEPREP;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDB prefixado 30 dias para pequenas quantias - Broadcast
+AEPRE1;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDB prefixado 360 dias para grandes quantias - Broadcast
+AEPRE2;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDB prefixado 720 dias para grandes quantias - Broadcast
+AECDIL;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDI de 30 dias - Broadcast
+AECD36;Taxas e Indicadores;Broadcast;A Vista;Taxa anualizada do CDI de 360 dias - Broadcast
+AETBF;Taxas e Indicadores;Broadcast;A Vista;Taxa básica financeira - BCB
+AECDC;Taxas e Indicadores;Broadcast;A Vista;Taxa de crédito direto ao consumidor - Anefac
+ARGGDPQ;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Y/Y, Argentina - Action Economics
+ARGHRM;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de desemprego, Argentina - Action Economics
+AUSURM;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de desemprego, Australia - Action Economics
+AUSEM;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de emprego, Australia - Action Economics
+AEUJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa de Juros básicos anuais da economia norte-americana -Federal Reserve (banco central dos Estados Unidos)
+AEJJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa de juros básicos do Japão - (BoJ)
+AETJLP;Taxas e Indicadores;Broadcast;A Vista;Taxa de juros de longo prazo - BNDES
+AELJUR;Taxas e Indicadores;Broadcast;A Vista;Taxa de juros nominal ativa sistema bancário da Bolívia - BC da Bolívia
+AESLBC;Taxas e Indicadores;Broadcast;A Vista;Taxa de juros Selic anualizada base 252 - BCB
+AEFGTS;Taxas e Indicadores;Broadcast;A Vista;Taxa de remuneração para atualização de contas vinculadas FGTS - Banco CEF
+AECDID;Taxas e Indicadores;Broadcast;A Vista;Taxa de um dia do CDI - Broadcast
+AEINAA;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado ano INPC - IBGE
+AEIPAA;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado ano IPCA - IBGE
+AECDME;Taxas e Indicadores;Broadcast;A Vista;Taxa do CDI Cetip acumulado no mês corrente - Cetip
+AECDN3;Taxas e Indicadores;Broadcast;A Vista;Taxa do CDI Cetip nominal de 30 dias - Broadcast
+AUSGDPQ;Taxas e Indicadores;Ind. Macro;A Vista;Taxa do PIB, Australia - Action Economics
+AECTIP;Taxas e Indicadores;Broadcast;A Vista;Taxa média diária anualizada do CDI - Cetip
+AECHES;Taxas e Indicadores;Broadcast;A Vista;Taxa média mensal de cheque especial - Procon SP
+AEEMPE;Taxas e Indicadores;Broadcast;A Vista;Taxa média mensal de empréstimo pessoal - Procon SP
+AEIGP1;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 1ª prévia do IGP-M - FGV
+AEFIP1;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 1º quadrissemana do IPC - Fipe-SP
+AEIGP2;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 2ª prévia do IGP-M - FGV
+AEFIP2;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 2º quadrissemana do IPC - Fipe-SP
+AEFIP3;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 3º quadrissemana do IPC - Fipe-SP
+AEFCAF;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal de compra juros do factoring - Anfac
+AEFCMA;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal de compra média alta juros do factoring - Anfac
+AEFCMB;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal de compra média baixa juros do factoring - Anfac
+AEKDES;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal de Desemprego, com ajuste sazonal (Inglaterra)
+AEICST;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do ICST, FGV -  Geral
+AEIG10;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IGP-10 base dia 10 - FGV
+AEIGPD;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IGP-DI - FGV
+AEIGPM;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IGP-M - FGV
+AEIC10;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do INCC-10 base dia 10 - FGV
+AEINCD;Taxas e Indicadores;Broadcast;A Vista;Taxa Mensal do INCC-DI - FGV
+AEINCM;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do INCC-M - FGV
+AEINPC;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do INPC - IBGE
+AEIA10;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPA-10 base dia 10 - FGV
+AEIPAD;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPA-EP - FGV (Antigo IPA-DI)
+AEIPAM;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPA-M - FGV
+AEFIPE;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPC - Fipe SP
+AEIP10;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPC-10 base dia 10 - FGV
+AEIPCA;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPCA - IBGE
+AEIP15;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPCA-15 base 15 dias - IBGE
+AEIPCD;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPC-DI - FGV
+AEIPCM;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPC-M - FGV
+AEIPCS;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPC-S - FGV
+ASTI01;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IST - Anatel
+AENI1;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do núcleo de inflação do IPC-DI - FGV
+AETLP;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal para cálculo da TLP
+AEOAND;Taxas e Indicadores;Broadcast;A Vista;Taxa over ANDIMA - títulos públicos federais anualizada
+AECDI;Taxas e Indicadores;Broadcast;A Vista;Taxa over anualizada do CDI - Broadcast
+AEOVER;Taxas e Indicadores;Broadcast;A Vista;Taxa over Selic anualizada - Broadcast
+AEOVED;Taxas e Indicadores;Broadcast;A Vista;Taxa over Selic um dia - Broadcast
+AUSRBAOCR;Taxas e Indicadores;Ind. Macro;A Vista;Taxa RBA oficial a vista, Australia - Action Economics
+AEBBC;Taxas e Indicadores;Broadcast;A Vista;Taxa referencial anualizada (Bônus) - BCB
+AEMPIB;Taxas e Indicadores;Broadcast;A Vista;Taxa trimestral do PIB - Banxico (México)
+AUSTDIG;Taxas e Indicadores;Ind. Macro;A Vista;TD-MI Inflation Gauge, Australia - Action Economics
+AETBC4;Taxas e Indicadores;Broadcast;A Vista;Termômetro BC Broad - comunicação
+AETBC1;Taxas e Indicadores;Broadcast;A Vista;Termômetro BC Broad - nota geral
+AETBC3;Taxas e Indicadores;Broadcast;A Vista;Termômetro BC Broad - política cambial
+AETBC2;Taxas e Indicadores;Broadcast;A Vista;Termômetro BC Broad - política monetária
+AETFZ3;Taxas e Indicadores;Broadcast;A Vista;Termômetro Fazenda Broad - comunicação
+AETFZ1;Taxas e Indicadores;Broadcast;A Vista;Termômetro Fazenda Broad - nota geral
+AETFZ2;Taxas e Indicadores;Broadcast;A Vista;Termômetro Fazenda Broad - política fiscal
+AETR;Taxas e Indicadores;Broadcast;A Vista;TR diária prefixada - BCB
+AECJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa anual de juros do Chile - BC do Chile
+AERJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa anual média de juros interbancária da Rússia - BC da Rússia
+AEKJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa anual nominal de juros da Inglaterra - BOE
+AEFJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa de juros anual de longo prazo da França - OCDE
+AEGJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa de juros anual do Canadá - Governo do Canadá
+AEOJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa de juros interbancária anual da Colômbia - BC da Colômbia
+AEMJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa média anual de juros pagos em 28 dias do México - BC do México
+AEVJUR;Taxas e Indicadores;Broadcast;A Vista;Valor da taxa média de juros anual nominal da Venezuela - BC da Venezuela
+AEARES;Taxas e Indicadores;Broadcast;A Vista;Valor das reservas internacionais - BC da Argentina
+AEF354;Taxas e Indicadores;Broadcast;A Vista;Valor de referência com reajuste na TJLP - Finep
+AEBRED;Taxas e Indicadores;Broadcast;A Vista;Valor diário da reserva internacional do Brasil - BCB
+AEDPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial da Alemanha - Destatis
+AEAPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial da Argentina - Indec
+AEFPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial da França - INSEE
+AEKPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial da Inglaterra - NOS
+AETPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial da Turquia - BC da Turquia
+AEGPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial do Canadá - OCDE
+AEJPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial do Japão c/ajuste sazonal - METI
+AEMPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial do México - INEGI
+AEOPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial real manufatureira da Colômbia - BC da Colômbia
+AEUPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial total dos EUA - FED
+AEEPIN;Taxas e Indicadores;Broadcast;A Vista;Variação da produção industrial zona do euro - Eurostat
+AEUDEF;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa anualizada do deflator implícito do PIB dos EUA - BEA
+AEDDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego da Alemanha - Destatis
+AEADES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego da Argentina - Indec
+AEFDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego da França - INSEE
+AEPDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego da PEA do Peru - BC da Peru
+AEGDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego do Canadá - Governo do Canadá
+AEJDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego do Japão c/ajuste sazonal - Statistics Bureau
+AEMDE2;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego nacional do México - INEGI
+AEODES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego nacional total da Colômbia - BC da Colômbia
+AEQDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego total do Equador - BC do Equador
+AEUDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de desemprego total dos EUA - BLS
+AENIFX;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de investimentos fixos da China - NBSC
+AEUPRO;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa de produtividade dos EUA exceto setor agrícola - BLS
+AECDES;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa nacional de desemprego do Chile - INE
+AEUVV1;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa sobre as vendas no varejo total dos EUA - USCB
+AEUVV2;Taxas e Indicadores;Broadcast;A Vista;Variação da taxa sobre as vendas no varejo total ex. automóveis dos EUA - USCB
+AEBBP2;Taxas e Indicadores;Broadcast;A Vista;Variação da transação corrente da balança de pagamento do Brasil - BCB
+AEUCRE;Taxas e Indicadores;Broadcast;A Vista;Variação diferencial do crédito ao consumidor dos EUA - FED
+AEBCOF;Taxas e Indicadores;Broadcast;A Vista;Variação do consumo da família conta nacional do Brasil s/ajuste sazonal - IBGE
+AEBCOG;Taxas e Indicadores;Broadcast;A Vista;Variação do consumo do governo conta nacional do Brasil s/ajuste sazonal - IBGE
+AEUMDO;Taxas e Indicadores;Broadcast;A Vista;Variação do custo de mão de obra dos EUA - BLS
+AEUCAP;Taxas e Indicadores;Broadcast;A Vista;Variação do índice da capacidade instalada na industria dos EUA - FED
+AEJTNK;Taxas e Indicadores;Broadcast;A Vista;Variação do índice de confiança setor empresarial do Japão - BC do Japão
+AEAINF;Taxas e Indicadores;Broadcast;A Vista;Variação do índice de preços ao consumidor da Argentina - Indec
+AELINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da Bolívia - BC da Bolívia
+AENINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da China - NBSC
+AEOINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da Colômbia - BC da Colômbia
+AEFINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da França - INSEE
+AEKIF2;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da Inglaterra - NOS
+AETINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da Turquia - BC da Turquia
+AEEINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC da zona do euro - Eurostat
+AEGINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC do Canadá - Governo do Canadá
+AECINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC do Chile - INE
+AEQINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC do Equador - BC do Equador
+AEJINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC do Japão - Statistics Bureau
+AEMINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC do México - BC do México
+AEPINF;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC Lima do Peru - BC do Peru
+AEUCP1;Taxas e Indicadores;Broadcast;A Vista;Variação do IPC total dos EUA - BLS
+AEUPP1;Taxas e Indicadores;Broadcast;A Vista;Variação do IPP dos EUA - BLS
+AEUCP2;Taxas e Indicadores;Broadcast;A Vista;Variação do núcleo do IPC dos EUA - BLS
+AEUPP2;Taxas e Indicadores;Broadcast;A Vista;Variação do núcleo IPP dos EUA - BLS
+AENPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB anualizado da China - NBSC
+AEOPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB anualizado da Colômbia - BC da Colômbia
+AEDPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB da Alemanha - Destatis
+AEGPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB do Canadá - Governo da Canadá
+AEUPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB dos EUA - BEA
+AECPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real a preços constantes do Chile - BC do Chile
+AEFPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real da França - INSEE
+AEKPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real da Inglaterra - NOS
+AEEPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real da zona do euro - Eurostat
+AEJPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real do Japão - BC do Japão
+AEPPIB;Taxas e Indicadores;Broadcast;A Vista;Variação do PIB real do Peru - BC do Peru
+AEDINF;Taxas e Indicadores;Broadcast;A Vista;Variação IPC da Alemanha - Destatis
+AEBDN1;Taxas e Indicadores;Broadcast;A Vista;Variação percentual nominal s/ PIB do Brasil com desvalorização cambial - BCB
+AEBDN2;Taxas e Indicadores;Broadcast;A Vista;Variação percentual primário s/ PIB do Brasil com desvalorização cambial - BCB
+AEBDN3;Taxas e Indicadores;Broadcast;A Vista;Variação percentual total da dívida líq.setor público do Brasil s/PIB - BCB
+AUSRTM;Taxas e Indicadores;Ind. Macro;A Vista;Vendas ao varejo Y/Y, Australia - Action Economics
+AESCV1;Taxas e Indicadores;Broadcast;A Vista;Vendas de Imóveis por ano, SECOVI
+AESCV;Taxas e Indicadores;Broadcast;A Vista;Vendas de Imóveis por mês, SECOVI
+ASAU02;Taxas e Indicadores;Broadcast;A Vista;Vendas de veículos
+AEREFE;Taxas e Indicadores;Broadcast;A Vista;Volume da arrecadação das receitas federais administradas do Brasil - RFB
+AECCCP;Taxas e Indicadores;Broadcast;A Vista;Volume de compra do câmbio contratado (Fluxo Cambial) do Brasil - BCB
+AECCVE;Taxas e Indicadores;Broadcast;A Vista;Volume de exportação do câmbio contratado (Fluxo Cambial) do Brasil - BCB
+AECCVI;Taxas e Indicadores;Broadcast;A Vista;Volume de importação do câmbio contratado (Fluxo Cambial) do Brasil - BCB
+AECCVD;Taxas e Indicadores;Broadcast;A Vista;Volume de vendas do câmbio contratado (Fluxo Cambial) do Brasil - BCB
+AEBRES;Taxas e Indicadores;Broadcast;A Vista;Volume mensal da reserva internacional do Brasil - BCB
+AENRES;Taxas e Indicadores;Broadcast;A Vista;Volume mensal das reservas internacionais da China - SAFE

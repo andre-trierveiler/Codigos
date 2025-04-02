@@ -1,0 +1,563 @@
+Busca: I;;;;;
+Código;Tipo;Fonte;Mercado;Descrição;
+IEAUD12M;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 1 Year;
+IEAUD10Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 10 Years;
+IEAUD12Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 12 Years;
+IEAUD15Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 15 Years;
+IEAUD2Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 2 Years;
+IEAUD20Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 20 Years;
+IEAUD3Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 3 Years;
+IEAUD4Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 4 Years;
+IEAUD5Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 5 Years;
+IEAUD7Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Qtrly/3Mo) 7 Years;
+IGAUD12M;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 1 Year;
+IGAUD10Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 10 Years;
+IGAUD12Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 12 Years;
+IGAUD15Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 15 Years;
+IGAUD2Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 2 Years;
+IGAUD20Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 20 Years;
+IGAUD3Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 3 Years;
+IGAUD4Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 4 Years;
+IGAUD5Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 5 Years;
+IGAUD7Y;Taxas e Indicadores;OTC Money;A Vista;AUD Int Rate Swap (Semi/6Mo) 7 Years;
+INDTB;Taxas e Indicadores;Ind. Macro;A Vista;Balança comercial CC, India - Action Economics;
+ITATB;Taxas e Indicadores;Ind. Macro;A Vista;Balança Comercial EUR total, Italia - Action Economics;
+IDNTB;Taxas e Indicadores;Ind. Macro;A Vista;Balança Comercial USD, Indonesia - Action Economics;
+IBRENT;Commodities;OTC Energy;A Vista;Brent OIL;x
+IFCAD10Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 10 Years;
+IFCAD12Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 12 Years;
+IFCAD15Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 15 Years;
+IFCAD2Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 2 Years;
+IFCAD20Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 20 Years;
+IFCAD25Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 25 years;
+IFCAD3Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 3 Years;
+IFCAD30Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 30 Years;
+IFCAD4Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 4 Years;
+IFCAD40Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 40 Years;
+IFCAD5Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 5 Years;
+IFCAD6Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 6 Years;
+IFCAD7Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 7 Years;
+IFCAD8Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 8 Years;
+IFCAD9Y;Taxas e Indicadores;OTC Money;A Vista;CAD Int Rate Swap (Semi/3Mo) 9 Years;
+ICCHF12M;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 1 Year;
+ICCHF10Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 10 Years;
+ICCHF11Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 11 Years;
+ICCHF12Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 12 Years;
+ICCHF13Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 13 Years;
+ICCHF14Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 14 Years;
+ICCHF15Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 15 Years;
+ICCHF2Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 2 Years;
+ICCHF20Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 20 Years;
+ICCHF25Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 25 years;
+ICCHF3Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 3 Years;
+ICCHF30Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 30 Years;
+ICCHF4Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 4 Years;
+ICCHF5Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 5 Years;
+ICCHF6Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 6 Years;
+ICCHF7Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 7 Years;
+ICCHF8Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 8 Years;
+ICCHF9Y;Taxas e Indicadores;OTC Money;A Vista;CHF Int Rate Swap (Ann/6Mo) 9 Years;
+ITAGDPY;Taxas e Indicadores;Ind. Macro;A Vista;Crescimento do PIB anual, Italia - Action Economics;
+ITAGDPQ;Taxas e Indicadores;Ind. Macro;A Vista;Crescimento do PIB Q/Q preliminar, Italia - Action Economics;
+ITAGDPYP;Taxas e Indicadores;Ind. Macro;A Vista;Crescimento do PIB Y/Y preliminar, Italia - Action Economics;
+IBCZK12M;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/3Mo) 1 Year;
+ICCZK10Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 10 Years;
+ICCZK2Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 2 Years;
+ICCZK3Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 3 Years;
+ICCZK4Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 4 Years;
+ICCZK5Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 5 Years;
+ICCZK6Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 6 Years;
+ICCZK7Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 7 Years;
+ICCZK8Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 8 Years;
+ICCZK9Y;Taxas e Indicadores;OTC Money;A Vista;CZK Int Rate Swap (Ann/6Mo) 9 Years;
+IADKK10Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 10 Years;
+IADKK12Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 12 Years;
+IADKK15Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 15 Years;
+IADKK2Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 2 Years;
+IADKK20Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 20 Years;
+IADKK25Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 25 years;
+IADKK3Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 3 Years;
+IADKK30Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 30 Years;
+IADKK4Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 4 Years;
+IADKK5Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 5 Years;
+IADKK6Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 6 Years;
+IADKK7Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 7 Years;
+IADKK8Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 8 Years;
+IADKK9Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/12M) 9 Years;
+IBDKK12M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 1 Year;
+IBDKK10Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 10 Years;
+IBDKK12Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 12 Years;
+IBDKK15M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 15 Months;
+IBDKK15Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 15 Years;
+IBDKK18M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 18 Months;
+IBDKK2Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 2 Years;
+IBDKK20Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 20 Years;
+IBDKK21M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 21 Months;
+IBDKK25Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 25 years;
+IBDKK3Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 3 Years;
+IBDKK30Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 30 Years;
+IBDKK4Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 4 Years;
+IBDKK5Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 5 Years;
+IBDKK6Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 6 Years;
+IBDKK7Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 7 Years;
+IBDKK8Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 8 Years;
+IBDKK9Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/3Mo) 9 Years;
+ICDKK12M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 1 Year;
+ICDKK10Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 10 Years;
+ICDKK12Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 12 Years;
+ICDKK15M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 15 Months;
+ICDKK15Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 15 Years;
+ICDKK18M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 18 Months;
+ICDKK2Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 2 Years;
+ICDKK20Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 20 Years;
+ICDKK21M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 21 Months;
+ICDKK25Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 25 years;
+ICDKK3Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 3 Years;
+ICDKK30Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 30 Years;
+ICDKK4Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 4 Years;
+ICDKK5Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 5 Years;
+ICDKK6Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 6 Years;
+ICDKK7Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 7 Years;
+ICDKK8Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 8 Years;
+ICDKK9Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Ann/6Mo) 9 Years;
+IPDKK1M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 1 Month;
+IPDKK12M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 1 Year;
+IPDKK10M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 10 Months;
+IPDKK11M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 11 Months;
+IPDKK15M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 15 Months;
+IPDKK18M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 18 Months;
+IPDKK2M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 2 Months;
+IPDKK2Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 2 Years;
+IPDKK21M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 21 Months;
+IPDKK3M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 3 Months;
+IPDKK3Y;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 3 Years;
+IPDKK4M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 4 Months;
+IPDKK5M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 5 Months;
+IPDKK6M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 6 Months;
+IPDKK7M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 7 Months;
+IPDKK8M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 8 Months;
+IPDKK9M;Taxas e Indicadores;OTC Money;A Vista;DKK Int Rate Swap (Annual Tom/Next) 9 Months;
+IWEUR1IX12I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 1IX12I;
+IWEUR1IX28I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 1IX28I;
+IWEUR1IX5I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 1IX5I;
+IWEUR2IX10I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 2IX10I;
+IWEUR2IX6I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 2IX6I;
+IWEUR3IX7I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 3IX7I;
+IWEUR4IX8I;Taxas e Indicadores;OTC Money;A Vista;EUR IMM Swap 4IX8I;
+IKEUR12M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/1Mo) 1 Year;
+IKEUR3M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/1Mo) 3 Months;
+IKEUR6M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/1Mo) 6 Months;
+IKEUR9M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/1Mo) 9 Months;
+IBEUR12M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/3Mo) 1 Year;
+IBEUR15M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/3Mo) 15 Months;
+IBEUR18M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/3Mo) 18 Months;
+IBEUR21M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/3Mo) 21 Months;
+ICEUR12M;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 1 Year;
+ICEUR10Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 10 Years;
+ICEUR11Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 11 Years;
+ICEUR12Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 12 Years;
+ICEUR13Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 13 Years;
+ICEUR14Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 14 Years;
+ICEUR15Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 15 Years;
+ICEUR16Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 16 Years;
+ICEUR17Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 17 Years;
+ICEUR18Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 18 Years;
+ICEUR19Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 19 Years;
+ICEUR2Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 2 Years;
+ICEUR20Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 20 Years;
+ICEUR21Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 21 Years;
+ICEUR22Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 22 Years;
+ICEUR23Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 23 Years;
+ICEUR24Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 24 Years;
+ICEUR25Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 25 years;
+ICEUR26Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 26 Years;
+ICEUR27Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 27 Years;
+ICEUR28Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 28 Years;
+ICEUR29Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 29 Years;
+ICEUR3Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 3 Years;
+ICEUR30Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 30 Years;
+ICEUR4Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 4 Years;
+ICEUR5Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 5 Years;
+ICEUR6Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 6 Years;
+ICEUR7Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 7 Years;
+ICEUR8Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 8 Years;
+ICEUR9Y;Taxas e Indicadores;OTC Money;A Vista;EUR Int Rate Swap (Ann/6Mo) 9 Years;
+IDNEY;Taxas e Indicadores;Ind. Macro;A Vista;Exportações Y/Y, Indonesia - Action Economics;
+ICGBP12M;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 1 Year;
+ICGBP10Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 10 Years;
+ICGBP11Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 11 Years;
+ICGBP12Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 12 Years;
+ICGBP13Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 13 Years;
+ICGBP14Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 14 Years;
+ICGBP15Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 15 Years;
+ICGBP2Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 2 Years;
+ICGBP20Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 20 Years;
+ICGBP25Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 25 years;
+ICGBP3Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 3 Years;
+ICGBP30Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 30 Years;
+ICGBP4Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 4 Years;
+ICGBP40Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 40 Years;
+ICGBP5Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 5 Years;
+ICGBP50Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 50 Years;
+ICGBP6Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 6 Years;
+ICGBP7Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 7 Years;
+ICGBP8Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 8 Years;
+ICGBP9Y;Taxas e Indicadores;OTC Money;A Vista;GBP Int Rate Swap (Ann/6Mo) 9 Years;
+IXAUUSDOZI;Commodities;OTC Metals;A Vista;GOLD INGOT, ICE Data Services;
+IEHKD12M;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 1 Year;
+IEHKD10Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 10 Years;
+IEHKD18M;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 18 Months;
+IEHKD2Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 2 Years;
+IEHKD3Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 3 Years;
+IEHKD4Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 4 Years;
+IEHKD5Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 5 Years;
+IEHKD6M;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 6 Months;
+IEHKD7Y;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 7 Years;
+IEHKD9M;Taxas e Indicadores;OTC Money;A Vista;HKD Int Rate Swap (Qtrly/3Mo) 9 Months;
+IBHUF12M;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/3Mo) 1 Year;
+ICHUF12M;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 1 Year;
+ICHUF10Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 10 Years;
+ICHUF12Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 12 Years;
+ICHUF15Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 15 Years;
+ICHUF2Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 2 Years;
+ICHUF3Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 3 Years;
+ICHUF4Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 4 Years;
+ICHUF5Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 5 Years;
+ICHUF6Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 6 Years;
+ICHUF7Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 7 Years;
+ICHUF8Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 8 Years;
+ICHUF9Y;Taxas e Indicadores;OTC Money;A Vista;HUF Int Rate Swap (Ann/6Mo) 9 Years;
+IBOVSD;Taxas e Indicadores;Broadcast;A Vista;Ibovespa Smart Dividendos B3;
+IECST;Taxas e Indicadores;Broadcast;A Vista;IE-CST Índice de Expectativas;x
+IHFA;Taxas e Indicadores;Broadcast;A Vista;IHFA - Índice de Hedge Funds ANBIMA;
+IDNIY;Taxas e Indicadores;Ind. Macro;A Vista;Importações Y/Y, Indonesia - Action Economics;
+ICRLPF;Taxas e Indicadores;Broadcast;A Vista;Inadimplência da carteira de crédito com recursos livres - PF - var.% - Banco Central;x
+ICRLPJ;Taxas e Indicadores;Broadcast;A Vista;Inadimplência da carteira de crédito com recursos livres - PJ - var.% - Banco Central;x
+ICRL;Taxas e Indicadores;Broadcast;A Vista;Inadimplência da carteira de crédito com recursos livres - var.% - Banco Central;x
+IBRMES;Taxas e Indicadores;Broadcast;A Vista;Indicador bancário de referência - 1 mês - BC da Colômbia;x
+IBR3ME;Taxas e Indicadores;Broadcast;A Vista;Indicador bancário de referência - 3  meses - BC da Colômbia;x
+IBRNOM;Taxas e Indicadores;Broadcast;A Vista;Indicador bancário de referência - overnight - BC da Colômbia;x
+ICCLBC;Taxas e Indicadores;Broadcast;A Vista;Indicador de Custo do Crédito - ICC - Crédito livre, Banco Central do Brasil;x
+IDNBIR;Taxas e Indicadores;Ind. Macro;A Vista;Índice BI de política monetária, Indonesia - Action Economics;
+IFMM-A;Taxas e Indicadores;Broadcast;A Vista;Índice BTG Pactual IFMM, Fundos Abertos;
+IFMM;Taxas e Indicadores;Broadcast;A Vista;Índice BTG Pactual IFMM, Fundos Fechados;
+IDAP5;Taxas e Indicadores;Broadcast;A Vista;Índice DAP5 B3 (IDAP5 B3);x
+IBCBR;Taxas e Indicadores;Broadcast;A Vista;Índice de Atividade Econômica do Banco Central (IBC-BR) - com ajuste sazonal;x
+IBCBRS;Taxas e Indicadores;Broadcast;A Vista;Índice de Atividade Econômica do Banco Central (IBC-BR) - sem ajuste sazonal;x
+ICBR;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities - Brasil;x
+ICBRA;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities - Brasil - Agropecuária;x
+ICBRE;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities - Brasil - Energia;x
+ICBRM;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities - Brasil - Metal;x
+ICBMF;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities Brasil - BM&F;x
+ICI;Taxas e Indicadores;Broadcast;A Vista;Índice de Commodities Itaú;x
+ITABC;Taxas e Indicadores;Ind. Macro;A Vista;Índice de confiança do consumidor, Italia - Action Economics;
+ITACC;Taxas e Indicadores;Ind. Macro;A Vista;Índice de Confiança do Consumidor, Italia - Action Economics;
+ICBIO;Taxas e Indicadores;Broadcast;A Vista;Índice de Crédito de Descarbonização B3 (ICBIO B3);
+IDEXDI;Taxas e Indicadores;Broadcast;A Vista;Índice de Crédito Privado (IDEX-CDI) - JGP;x
+ICPBQ;Taxas e Indicadores;Broadcast;A Vista;Índice de Crédito Privado Broadcast Quantum;x
+IDALIQDI;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures Liquidez, contendo séries indexadas ao DI (DI e DI+Spread) - Anbima;
+IDALIQPCA;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures Liquidez, contendo séries indexadas ao IPCA - Anbima;
+IDALIQPCAIN;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures Liquidez, séries indexadas ao IPCA Infraestrutura, incentivadas - Anbima;
+IDADI;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures, contendo séries indexadas ao DI (DI e DI+Spread) - Anbima;
+IDAPCA;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures, contendo séries indexadas ao IPCA - Anbima;
+IDAPCAEIN;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures, séries indexadas ao IPCA Ex-Infraestrutura, não incentivadas - Anbima;
+IDAPCAIN;Taxas e Indicadores;Broadcast;A Vista;Índice de Debêntures, séries indexadas ao IPCA Infraestrutura, incentivadas - Anbima;
+INDRDI;Taxas e Indicadores;Broadcast;A Vista;Índice de fundo referenciado DI - Broadcast;x
+INDACO;Taxas e Indicadores;Broadcast;A Vista;Índice de fundos de ações - Broadcast;x
+INDMUL;Taxas e Indicadores;Broadcast;A Vista;Índice de fundos multimercado - Broadcast;x
+INDRCA;Taxas e Indicadores;Broadcast;A Vista;Índice de fundos referenciado de câmbio - Broadcast;x
+INDRFX;Taxas e Indicadores;Broadcast;A Vista;Índice de fundos renda fixa - Broadcast;x
+IICPFS;Taxas e Indicadores;Broadcast;A Vista;Índice de Inflação dos Custos de Produção (IICP), Rio Grande do Sul - Farsul;
+IIPRFS;Taxas e Indicadores;Broadcast;A Vista;Índice de Inflação dos Preços Recebidos pelos Produtores Rurais (IIPR), Rio Grande do Sul - Farsul;
+ILCFS;Taxas e Indicadores;Broadcast;A Vista;Índice de Insumos para a Produção de Leite Cru (ILC), Rio Grande do Sul - Farsul;
+INDWPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preço do atacado Y/Y, India - Action Economics;
+ITACPIHMF;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M final, Italia - Action Economics;
+ITANTM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M final, Italia - Action Economics;
+ITACPIHMP;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M preliminar, Italia - Action Economics;
+ITACPINICM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M preliminar, Italia - Action Economics;
+IRECPIHM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M, Irlanda - Action Economics;
+IRECPIM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) M/M, Irlanda - Action Economics;
+ITACPIHFY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y final, Italia - Action Economics;
+ITANTY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y final, Italia - Action Economics;
+ITACPIHY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y preliminar, Italia - Action Economics;
+ITACPINICY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y preliminar, Italia - Action Economics;
+INDCPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y, India - Action Economics;
+IRECPIHY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y, Irlanda - Action Economics;
+IRECPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços ao consumidor (CPI) Y/Y, Irlanda - Action Economics;
+IDNCPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de Preços ao consumidor Y/Y, Indonesia - Action Economics;
+ITAPPIM;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços no atacado M/M, Italia - Action Economics;
+ITAPPIY;Taxas e Indicadores;Ind. Macro;A Vista;Índice de preços no atacado Y/Y, Italia - Action Economics;
+IVGR;Taxas e Indicadores;Broadcast;A Vista;Índice de Valores de Garantia de Imóveis Residenciais Financiados;x
+IFBOI;Taxas e Indicadores;Broadcast;A Vista;Índice Futuro de Boi Gordo B3 (IFBOI B3);x
+IFMILHO;Taxas e Indicadores;Broadcast;A Vista;Índice Futuro de Milho B3 (IFMILHO B3);x
+IDALIQ;Taxas e Indicadores;Broadcast;A Vista;Índice Geral de Debêntures Liquidez, contendo todas as séries elegíveis - Anbima;
+IDA;Taxas e Indicadores;Broadcast;A Vista;Índice Geral de Debêntures, contendo todas as séries elegíveis - Anbima;
+ICAPB;Taxas e Indicadores;Broadcast;A Vista;ÍNDICE IPCA PRO RATA TEMPORE - B3;
+ITSBR;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa Brasil;x
+ITSCH;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa Chile;x
+ITSCO;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa Colombia;x
+ITSLA;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa LatAm;x
+ITSMX;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa Mexico;x
+ITSPR;Taxas e Indicadores;Broadcast;A Vista;Índice Itaú de Surpresa Peru;x
+IDP12;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - 12 meses - Líquido - US$ (mi.);x
+IDP12P;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - 12 meses em relação ao PIB - Líquido - US$ (mi.);x
+IDPAI;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Anual - Ingressos;x
+IDPAL;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Anual - Líquido - US$ (milhões);x
+IDPAS;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Anual - Saídas;x
+IDPMI;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Mensal - Ingressos - US$ (milhões);x
+IDPML;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Mensal - Líquido - US$ (milhões);x
+IDPMS;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Mensal - Saídas - US$ (milhões);x
+IDPTI;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Trimestral - Ingressos - US$ (milhões);x
+IDPTL;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Trimestral - Líquido - US$ (milhões);x
+IDPTS;Taxas e Indicadores;Broadcast;A Vista;Investimentos Diretos no País - IDP - Trimestral - Saídas  - US$ (milhões);x
+ISACST;Taxas e Indicadores;Broadcast;A Vista;ISA-CST Índice de Situação Atual;
+ISUS;Taxas e Indicadores;Bovespa;A Vista;It Now Ise Fundo de Índice, , A Vista;x
+IDAT;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker;x
+IDATBN;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Bens;x
+IDATXBN;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Bens - Ampliado;x
+IDATEM;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Empregos;x
+IDATSA;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Salários;x
+IDATSV;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Serviços;x
+IDATXSV;Taxas e Indicadores;Broadcast;A Vista;Itaú Daily Activity Tracker - Serviços - Ampliado;x
+ICJPY12M;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 1 Year;
+ICJPY10Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 10 Years;
+ICJPY11Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 11 Years;
+ICJPY12Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 12 Years;
+ICJPY13Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 13 Years;
+ICJPY14Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 14 Years;
+ICJPY15Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 15 Years;
+ICJPY2Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 2 Years;
+ICJPY20Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 20 Years;
+ICJPY25Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 25 years;
+ICJPY3Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 3 Years;
+ICJPY30Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 30 Years;
+ICJPY4Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 4 Years;
+ICJPY5Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 5 Years;
+ICJPY6Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 6 Years;
+ICJPY7Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 7 Years;
+ICJPY8Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 8 Years;
+ICJPY9Y;Taxas e Indicadores;OTC Money;A Vista;JPY Int Rate Swap (Ann/6Mo) 9 Years;
+IRNORE;Commodities;Broadcast;A Vista;Minério de ferro Spot, indicador, USD, World Bank;x
+ITAPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Italia - Action Economics;
+ITAPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Italia - Action Economics;
+ICUBMO;Taxas e Indicadores;Broadcast;A Vista;Nº índice Cub - Mão-de-Obra;x
+ICUBMT;Taxas e Indicadores;Broadcast;A Vista;Nº índice Cub - Material;x
+IPCAEI;Taxas e Indicadores;Broadcast;A Vista;Número índice da taxa mensal do IPCAE - IBGE;
+IDKA10;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 10 Anos - Anbima;
+IDKA15;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 15 Anos - Anbima;
+IDKAI2;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 2 Anos - Anbima;
+IDKA20;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 20 Anos - Anbima;
+IDKAI3;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 3 Anos - Anbima;
+IDKA30;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 30 Anos - Anbima;
+IDKAA5;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA IPCA 5 Anos - Anbima;
+IDKAP1;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA Pré 1 Ano - Anbima;
+IDKAP2;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA Pré 2 Anos - Anbima;
+IDKA3A;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA Pré 3 Anos - Anbima;
+IDKAP3;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA Pré 3 Meses - Anbima;
+IDKA5A;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IDKA Pré 5 Anos - Anbima;
+IIGP10;Taxas e Indicadores;Broadcast;A Vista;Número índice do IGP-10 base 10 dias - FGV;
+IMAS;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA composto por LFT - Anbima;
+IMAB;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA composto por NTN-B - Anbima;
+IMAB5P;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA composto por NTN-B com prazo de 5 anos ou mais - Anbima;
+IMAB5;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA composto por NTN-B com prazo menor que 5 anos - Anbima;
+IMA;Taxas e Indicadores;Broadcast;A Vista;Número Índice do IMA média ponderada ao retorno diário - Anbima;
+IMAXC;Taxas e Indicadores;Broadcast;A Vista;Número índice do IMA média ponderada do retorno diário ex NTN-C - Anbima;
+IIC10;Taxas e Indicadores;Broadcast;A Vista;Número índice do INCC-10 base 10 dias - FGV;
+IIA10;Taxas e Indicadores;Broadcast;A Vista;Número índice do IPA-10 base 10 dias - FGV;
+IIP10;Taxas e Indicadores;Broadcast;A Vista;Número índice do IPC-10 base 10 dias - FGV;
+IIP15;Taxas e Indicadores;Broadcast;A Vista;Número índice do IPC-10 base 10 dias - FIPE;
+IRFM1P;Taxas e Indicadores;Broadcast;A Vista;Número índice do IRFM composto por LTN e NTN-F maior ou igual 1 ano - Anbima;
+IRFM1;Taxas e Indicadores;Broadcast;A Vista;Número índice do IRFM composto por LTN e NTN-F menor que 1 ano - Anbima;
+IRFM;Taxas e Indicadores;Broadcast;A Vista;Número índice do IRFM composto por LTN e NTN-F prefixado - Anbima;
+IBXPDUSDOZ;Commodities;OTC Metals;A Vista;PALLADIUM INGOT 1 OZ, ICE Data Services;
+IXPTUSDOZI;Commodities;OTC Metals;A Vista;PLATINUM INGOT, ICE Data Services;
+IBPLN12M;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/3Mo) 1 Year;
+ICPLN10Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 10 Years;
+ICPLN12Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 12 Years;
+ICPLN15Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 15 Years;
+ICPLN2Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 2 Years;
+ICPLN20Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 20 Years;
+ICPLN3Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 3 Years;
+ICPLN4Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 4 Years;
+ICPLN5Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 5 Years;
+ICPLN6Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 6 Years;
+ICPLN7Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 7 Years;
+ICPLN8Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 8 Years;
+ICPLN9Y;Taxas e Indicadores;OTC Money;A Vista;PLN Int Rate Swap (Ann/6Mo) 9 Years;
+ITAIPSM;Taxas e Indicadores;Ind. Macro;A Vista;Produção industrial sa M/M, Italia - Action Economics;
+ITAIPWY;Taxas e Indicadores;Ind. Macro;A Vista;Produção industrial wda Y/Y, Italia - Action Economics;
+INDIPY;Taxas e Indicadores;Ind. Macro;A Vista;Produção industrial Y/Y, India - Action Economics;
+IDNFXR;Taxas e Indicadores;Ind. Macro;A Vista;Reservas de Câmbio USD, Indonesia - Action Economics;
+IBRON12M;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 1 Year;
+IBRON10Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 10 Years;
+IBRON2Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 2 Years;
+IBRON3Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 3 Years;
+IBRON4Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 4 Years;
+IBRON5Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 5 Years;
+IBRON6Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 6 Years;
+IBRON7Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 7 Years;
+IBRON8Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 8 Years;
+IBRON9Y;Taxas e Indicadores;OTC Money;A Vista;RON Int Rate Swap (Ann/3Mo) 9 Years;
+IBRUB12M;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 1 Year;
+IBRUB10Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 10 Years;
+IBRUB12Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 12 Years;
+IBRUB15Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 15 Years;
+IBRUB18M;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 18 Months;
+IBRUB2Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 2 Years;
+IBRUB20Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 20 Years;
+IBRUB3Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 3 Years;
+IBRUB4Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 4 Years;
+IBRUB5Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 5 Years;
+IBRUB6Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 6 Years;
+IBRUB7Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 7 Years;
+IBRUB8Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 8 Years;
+IBRUB9Y;Taxas e Indicadores;OTC Money;A Vista;RUB Int Rate Swap (Ann/3mo) 9 Years;
+IBSEK12M;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 1 Year;
+IBSEK10Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 10 Years;
+IBSEK12Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 12 Years;
+IBSEK15Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 15 Years;
+IBSEK2Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 2 Years;
+IBSEK20Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 20 Years;
+IBSEK25Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 25 years;
+IBSEK3Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 3 Years;
+IBSEK30Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 30 Years;
+IBSEK4Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 4 Years;
+IBSEK5Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 5 Years;
+IBSEK6Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 6 Years;
+IBSEK7Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 7 Years;
+IBSEK8Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 8 Years;
+IBSEK9Y;Taxas e Indicadores;OTC Money;A Vista;SEK Int Rate Swap (Ann/3Mo) 9 Years;
+IXAGUSDOZI;Commodities;OTC Metals;A Vista;SILVER INGOT (EXCHANGE APPROVED), ICE Data Services;
+ICCMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de confiança, série dessazonalizada, em pontos, FGV;x
+ICCMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de confiança, série original, em pontos, FGV;x
+IECMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de expectativas, série dessazonalizada, em pontos, FGV;x
+IECMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de expectativas, série original, em pontos, FGV;x
+ISACMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de situação atual, série dessazonalizada, em pontos, FGV;x
+ISACMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Comércio, índice de situação atual, série original, em pontos, FGV;x
+ICCSD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de confiança, série dessazonalizada, em pontos, FGV;x
+ICCSO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de confiança, série original, em pontos, FGV;x
+IECSD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de expectativas, série dessazonalizada, em pontos, FGV;x
+IECSO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de expectativas, série original, em pontos, FGV;x
+ISACSD;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de situação atual, série dessazonalizada, em pontos, FGV;x
+ISACSO;Taxas e Indicadores;Broadcast;A Vista;Sondagem do Consumidor, índice de situação atual, série original, em pontos, FGV;x
+ICEMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de confiança, série dessazonalizada, em pontos, FGV;x
+ICEMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de confiança, série original, em pontos, FGV;x
+IEEMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de expectativas, série dessazonalizada, em pontos, FGV;x
+IEEMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de expectativas, série original, em pontos, FGV;x
+ISAEMD;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de situação atual, série dessazonalizada, em pontos, FGV;x
+ISAEMO;Taxas e Indicadores;Broadcast;A Vista;Sondagem Empresarial, índice de situação atual, série original, em pontos, FGV;x
+ICIA;Taxas e Indicadores;Broadcast;A Vista;Subíndice de Commodities Itaú (Agrícolas);x
+ICIE;Taxas e Indicadores;Broadcast;A Vista;Subíndice de Commodities Itaú (Energia);x
+ICIM;Taxas e Indicadores;Broadcast;A Vista;Subíndice de Commodities Itaú (Metais);x
+INCD12;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada em 12 meses do INCC-DI - FGV;x
+IPAD12;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada em 12 meses do IPA-EP - FGV (Antigo IPA-DI);x
+IPCD12;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada em 12 meses do IPC-DI - FGV;x
+INCDIA;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada no ano do INCC-DI - FGV;x
+IPADIA;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada no ano do IPA-EP - FGV (Antigo IPA-DI);x
+IPCDIA;Taxas e Indicadores;Broadcast;A Vista;Taxa acumulada no ano do IPC-DI - FGV;x
+ITAGDPFQ;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Q/Q final, Italia - Action Economics;
+IREGDPQ;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Q/Q, Irlanda - Action Economics;
+ITAGDPFY;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Y/Y final, Italia - Action Economics;
+INDGDPY;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Y/Y, India - Action Economics;
+IDNGDPY;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Y/Y, Indonesia - Action Economics;
+IREGDPY;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de crescimento do PIB Y/Y, Irlanda - Action Economics;
+IREUR;Taxas e Indicadores;Ind. Macro;A Vista;Taxa de desemprego, Irlanda - Action Economics;
+IGP10A;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado ano do IGP-10 - FGV;
+IGPDIA;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado ano do IGP-DI - FGV;
+IPCAEA;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado ano IPCAE - IBGE;
+IGP10M;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado em 12 meses do IGP-10 - FGV;
+IGPDIM;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado em 12 meses do IGP-DI - FGV;
+IGPM12;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado em 12 meses do IGP-M - FGV;x
+IPCA12;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado em 12 meses do IPCA - IBGE;
+IPAE12;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado em 12 meses do IPCAE - IBGE;
+IGPMA;Taxas e Indicadores;Broadcast;A Vista;Taxa do acumulado no ano IGP-M - FGV;x
+INCC1P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 1ª Prévia do INCC do IGP-M - FGV;
+IPA1P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 1ª prévia do IPA do IGP-M - FGV;
+IPC1P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 1ª prévia do IPC do IGP-M - FGV;
+INCC2P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 2ª Prévia do INCC do IGP-M - FGV;
+IPA2P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 2ª prévia do IPA do IGP-M - FGV;
+IPC2P;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal da 2ª prévia do IPC do IGP-M - FGV;
+IGPM-AE;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IGP-M - FGV;x
+IPCA-AE;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPCA - IBGE;x
+IPCAE;Taxas e Indicadores;Broadcast;A Vista;Taxa mensal do IPCA-E - IBGE;x
+INDRBIRR;Taxas e Indicadores;Ind. Macro;A Vista;Taxa Repo RBI, India - Action Economics;x
+IORB;Taxas e Indicadores;Broadcast;A Vista;Taxa sobre saldos de reserva - D+1 - FED;
+ICAML;Taxas e Indicadores;Broadcast;A Vista;Transações Correntes - Carteira de Ações - Mensal - US$ (mi.) - Banco Central;x
+ICFIML;Taxas e Indicadores;Broadcast;A Vista;Transações Correntes - Carteira de Fundos de Investimento - Mensal - US$ (mi.) - Banco Central;x
+ICRFML;Taxas e Indicadores;Broadcast;A Vista;Transações Correntes - Carteira de Renda Fixa - Mensal - US$ (mi.) - Banco Central;x
+IBTRY12M;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 1 Year;
+IBTRY10Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 10 Years;
+IBTRY2Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 2 Years;
+IBTRY3Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 3 Years;
+IBTRY4Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 4 Years;
+IBTRY5Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 5 Years;
+IBTRY6Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 6 Years;
+IBTRY7Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 7 Years;
+IBTRY8Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 8 Years;
+IBTRY9Y;Taxas e Indicadores;OTC Money;A Vista;TRY Int Rate Swap (Ann/3mo) 9 Years;
+IETWD12M;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 1 Year;
+IETWD10Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 10 Years;
+IETWD2Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 2 Years;
+IETWD3Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 3 Years;
+IETWD4Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 4 Years;
+IETWD5Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 5 Years;
+IETWD7Y;Taxas e Indicadores;OTC Money;A Vista;TWD Int Rate Swap (Qtrly/3Mo) 7 Years;
+IGTWD12M;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 1 Year;
+IGTWD10Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 10 Years;
+IGTWD2Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 2 Years;
+IGTWD3Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 3 Years;
+IGTWD4Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 4 Years;
+IGTWD5Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 5 Years;
+IGTWD7Y;Taxas e Indicadores;OTC Money;A Vista;TWD-USD Currency Swap (Semi/6Mo) 7 Years;
+IBUSD12M;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 1 Year;
+IBUSD10Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 10 Years;
+IBUSD12Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 12 Years;
+IBUSD15Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 15 Years;
+IBUSD2Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 2 Years;
+IBUSD20Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 20 Years;
+IBUSD25Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 25 years;
+IBUSD3Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 3 Years;
+IBUSD30Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 30 Years;
+IBUSD4Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 4 Years;
+IBUSD5Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 5 Years;
+IBUSD6Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 6 Years;
+IBUSD7Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 7 Years;
+IBUSD8Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 8 Years;
+IBUSD9Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/3Mo) 9 Years;
+ICUSD12M;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 1 Year;
+ICUSD10Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 10 Years;
+ICUSD12Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 12 Years;
+ICUSD15Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 15 Years;
+ICUSD2Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 2 Years;
+ICUSD20Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 20 Years;
+ICUSD25Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 25 years;
+ICUSD3Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 3 Years;
+ICUSD30Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 30 Years;
+ICUSD4Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 4 Years;
+ICUSD5Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 5 Years;
+ICUSD6Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 6 Years;
+ICUSD7Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 7 Years;
+ICUSD8Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 8 Years;
+ICUSD9Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Ann/6Mo) 9 Years;
+IFUSD12M;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 1 Year;
+IFUSD10Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 10 Years;
+IFUSD12Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 12 Years;
+IFUSD15Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 15 Years;
+IFUSD2Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 2 Years;
+IFUSD20Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 20 Years;
+IFUSD25Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 25 years;
+IFUSD3Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 3 Years;
+IFUSD30Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 30 Years;
+IFUSD4Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 4 Years;
+IFUSD5Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 5 Years;
+IFUSD6Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 6 Years;
+IFUSD7Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 7 Years;
+IFUSD8Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 8 Years;
+IFUSD9Y;Taxas e Indicadores;OTC Money;A Vista;USD Int Rate Swap (Semi/3Mo) 9 Years;
+IPCADP;Taxas e Indicadores;Broadcast;A Vista;Variação do núcleo de dupla ponderação do IPCA - BCB;x
+IPCAMS;Taxas e Indicadores;Broadcast;A Vista;Variação do núcleo médias aparadas com suavização  do IPCA - BCB;x
+IPCAEX;Taxas e Indicadores;Broadcast;A Vista;variação do núcleo por exclusão do IPCA - BCB;x
+ITARSM;Taxas e Indicadores;Ind. Macro;A Vista;Vendas ao varejo MM, Italia - Action Economics;
+ITARSY;Taxas e Indicadores;Ind. Macro;A Vista;Vendas ao varejo Y/Y, Italia - Action Economics;
+ITAISY;Taxas e Indicadores;Ind. Macro;A Vista;Vendas na indústria nsa Y/Y, Italia - Action Economics;
+ITAISM;Taxas e Indicadores;Ind. Macro;A Vista;Vendas na indústria s.a. M/M, Italia - Action Economics;

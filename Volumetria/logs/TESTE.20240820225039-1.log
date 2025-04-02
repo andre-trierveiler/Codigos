@@ -1,0 +1,343 @@
+2024-08-20 22:50:39,166 - teradata.udaexec - INFO - Initializing UdaExec...
+2024-08-20 22:50:39,166 - teradata.udaexec - INFO - Reading config files: ['C:\\etc\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\AppData\\Roaming\\Python\\Python311\\Scripts\\Jupyter Remota\\Volumetria\\udaexec.ini: Not Found']
+2024-08-20 22:50:39,166 - teradata.udaexec - INFO - No previous run number found as C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\.runNumber does not exist. Initializing run number to 1
+2024-08-20 22:50:39,166 - teradata.udaexec - INFO - Cleaning up log files older than 90 days.
+2024-08-20 22:50:39,168 - teradata.udaexec - INFO - Removed 0 log files.
+2024-08-20 22:50:39,175 - teradata.udaexec - INFO - Checkpoint file not found: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\TESTE.checkpoint
+2024-08-20 22:50:39,175 - teradata.udaexec - INFO - No previous checkpoint found, executing from beginning...
+2024-08-20 22:50:39,175 - teradata.udaexec - INFO - Execution Details:
+/********************************************************************************
+ * Application Name: TESTE
+ *          Version: 1.0
+ *       Run Number: 20240820225039-1
+ *             Host: wts1farmcol003p
+ *         Platform: Windows-10-10.0.20348-SP0
+ *          OS User: andre_trierveiler
+ *   Python Version: 3.11.1
+ *  Python Compiler: MSC v.1934 64 bit (AMD64)
+ *     Python Build: ('tags/v3.11.1:a7a450f', 'Dec  6 2022 19:58:39')
+ *  UdaExec Version: 15.10.0.21
+ *     Program Name: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py
+ *      Working Dir: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria
+ *          Log Dir: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs
+ *         Log File: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs\TESTE.20240820225039-1.log
+ *     Config Files: ['C:\\etc\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\AppData\\Roaming\\Python\\Python311\\Scripts\\Jupyter Remota\\Volumetria\\udaexec.ini: Not Found']
+ *      Query Bands: ApplicationName=TESTE;Version=1.0;JobID=20240820225039-1;ClientUser=andre_trierveiler;Production=False;udaAppLogFile=C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs\TESTE.20240820225039-1.log;UtilityName=PyTd;UtilityVersion=15.10.0.21
+********************************************************************************/
+2024-08-20 22:50:39,212 - teradata.udaexec - INFO - Creating connection: {'method': 'odbc', 'system': 'TERADBAWS.sicredi.net', 'username': 'P_USR_DL_GESTAO_RECURSOS', 'password': 'XXXXXX', 'Authentication': 'TDNEGO'}
+2024-08-20 22:50:39,226 - teradata.tdodbc - INFO - Available drivers: SQL Server, Teradata Database ODBC Driver 17.10, Microsoft Access Driver (*.mdb, *.accdb), Microsoft Excel Driver (*.xls, *.xlsx, *.xlsm, *.xlsb), Microsoft Access Text Driver (*.txt, *.csv)
+2024-08-20 22:50:57,099 - teradata.udaexec - INFO - Connection successful. Duration: 17.886 seconds. Details: {'method': 'odbc', 'system': 'TERADBAWS.sicredi.net', 'username': 'P_USR_DL_GESTAO_RECURSOS', 'password': 'XXXXXX', 'Authentication': 'TDNEGO'}
+2024-08-20 22:50:57,667 - teradata.udaexec - INFO - Query Successful. Duration: 0.567 seconds, Rows: 1397, Query: Select DT from dl_Gestao_recursos.bas_cad_fer where tipo in ('3','2')
+2024-08-20 22:55:02,734 - teradata.udaexec - INFO - Initializing UdaExec...
+2024-08-20 22:55:02,734 - teradata.udaexec - INFO - Reading config files: ['C:\\etc\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\AppData\\Roaming\\Python\\Python311\\Scripts\\Jupyter Remota\\Volumetria\\udaexec.ini: Not Found']
+2024-08-20 22:55:02,734 - teradata.udaexec - INFO - Found run number file: "C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\.runNumber"
+2024-08-20 22:55:02,735 - teradata.udaexec - INFO - Cleaning up log files older than 90 days.
+2024-08-20 22:55:02,735 - teradata.udaexec - INFO - Removed 0 log files.
+2024-08-20 22:55:02,744 - teradata.udaexec - INFO - Checkpoint file not found: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\TESTE.checkpoint
+2024-08-20 22:55:02,744 - teradata.udaexec - INFO - No previous checkpoint found, executing from beginning...
+2024-08-20 22:55:02,744 - teradata.udaexec - INFO - Execution Details:
+/********************************************************************************
+ * Application Name: TESTE
+ *          Version: 1.0
+ *       Run Number: 20240820225502-2
+ *             Host: wts1farmcol003p
+ *         Platform: Windows-10-10.0.20348-SP0
+ *          OS User: andre_trierveiler
+ *   Python Version: 3.11.1
+ *  Python Compiler: MSC v.1934 64 bit (AMD64)
+ *     Python Build: ('tags/v3.11.1:a7a450f', 'Dec  6 2022 19:58:39')
+ *  UdaExec Version: 15.10.0.21
+ *     Program Name: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\site-packages\ipykernel_launcher.py
+ *      Working Dir: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria
+ *          Log Dir: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs
+ *         Log File: C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs\TESTE.20240820225502-2.log
+ *     Config Files: ['C:\\etc\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\udaexec.ini: Not Found', 'C:\\Users\\andre_trierveiler\\AppData\\Roaming\\Python\\Python311\\Scripts\\Jupyter Remota\\Volumetria\\udaexec.ini: Not Found']
+ *      Query Bands: ApplicationName=TESTE;Version=1.0;JobID=20240820225502-2;ClientUser=andre_trierveiler;Production=False;udaAppLogFile=C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\Scripts\Jupyter Remota\Volumetria\logs\TESTE.20240820225502-2.log;UtilityName=PyTd;UtilityVersion=15.10.0.21
+********************************************************************************/
+2024-08-20 22:55:02,744 - teradata.udaexec - INFO - Creating connection: {'method': 'odbc', 'system': 'TERADBAWS.sicredi.net', 'username': 'P_USR_DL_GESTAO_RECURSOS', 'password': 'XXXXXX', 'Authentication': 'TDNEGO'}
+2024-08-20 22:55:20,667 - teradata.udaexec - INFO - Connection successful. Duration: 17.922 seconds. Details: {'method': 'odbc', 'system': 'TERADBAWS.sicredi.net', 'username': 'P_USR_DL_GESTAO_RECURSOS', 'password': 'XXXXXX', 'Authentication': 'TDNEGO'}
+2024-08-20 22:55:21,137 - teradata.udaexec - INFO - Query Successful. Duration: 0.318 seconds, Rows: 1397, Query: Select DT from dl_Gestao_recursos.bas_cad_fer where tipo in ('3','2')
+2024-08-20 22:55:24,619 - teradata.udaexec - INFO - Query Successful. Duration: 2.505 seconds, Rows: 3351, Query: 
+select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao
+
+2024-08-20 23:21:27,483 - teradata.udaexec - INFO - Query Successful. Duration: 0.300 seconds, Rows: 828, Query: 
+select 
+extract(year from dt_movimento) as DT
+, num_boletos
+, cd_trader_digitacao
+, COUNT(NUM_BOLETOS)
+
+FROM 
+(select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao) tab
+GROUP BY 
+extract(year from dt_movimento) 
+, num_boletos
+, cd_trader_digitacao
+
+2024-08-20 23:25:06,615 - teradata.udaexec - INFO - Query Successful. Duration: 0.332 seconds, Rows: 828, Query: 
+select 
+''||extract(year from dt_movimento) as DT
+, num_boletos
+, cd_trader_digitacao
+, COUNT(NUM_BOLETOS)
+
+FROM 
+(select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao) tab
+GROUP BY 
+extract(year from dt_movimento) 
+, num_boletos
+, cd_trader_digitacao
+
+2024-08-20 23:26:24,868 - teradata.udaexec - INFO - Query Successful. Duration: 0.426 seconds, Rows: 828, Query: 
+select 
+''||extract(year from dt_movimento) as DT
+, ''|| num_boletos as num_boletos
+, cd_trader_digitacao
+, COUNT(NUM_BOLETOS)
+
+FROM 
+(select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao) tab
+GROUP BY 
+extract(year from dt_movimento) 
+, num_boletos
+, cd_trader_digitacao
+
+2024-08-20 23:27:56,608 - teradata.udaexec - INFO - Query Successful. Duration: 0.417 seconds, Rows: 828, Query: 
+select 
+''||extract(year from dt_movimento) as DT
+, num_boletos as num_boletos
+, cd_trader_digitacao
+, COUNT(NUM_BOLETOS)
+
+FROM 
+(select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao) tab
+GROUP BY 
+extract(year from dt_movimento) 
+, num_boletos
+, cd_trader_digitacao
+
+2024-08-20 23:35:02,256 - teradata.udaexec - ERROR - Query Failed! Duration: 0.142 seconds, Query: 
+select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+, case when count(id_boleto) > 30 then count(id_boleto) else 0 as dias_30_mais
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao
+Traceback (most recent call last):
+  File "C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\site-packages\teradata\udaexec.py", line 790, in _execute
+    func(query, params, **kwargs)
+  File "C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\site-packages\teradata\tdodbc.py", line 614, in execute
+    checkStatus(rc, hStmt=self.hStmt, method="SQLExecDirectW")
+  File "C:\Users\andre_trierveiler\AppData\Roaming\Python\Python311\site-packages\teradata\tdodbc.py", line 231, in checkStatus
+    raise DatabaseError(i[2], u"[{}] {}".format(i[0], msg), i[0])
+teradata.api.DatabaseError: (3707, "[42000] [Teradata][ODBC Teradata Driver][Teradata Database](-3707)Syntax error, expected something like an 'END' keyword between an integer and the 'as' keyword.")
+2024-08-20 23:35:19,232 - teradata.udaexec - INFO - Query Successful. Duration: 2.213 seconds, Rows: 3351, Query: 
+select dt_movimento
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+, case when count(id_boleto) > 30 then count(id_boleto) else 0 end as dias_30_mais
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao
+
+2024-08-20 23:38:16,111 - teradata.udaexec - INFO - Query Successful. Duration: 7.779 seconds, Rows: 3351, Query: 
+select dt_movimento
+, ''||extract(year from dt_movimento) as ano
+, cd_trader_digitacao
+, count(id_boleto) as num_boletos
+, count(distinct dt_vencimento) as num_papeis
+, count(distinct cd_cliente) as num_fundos
+, case when count(id_boleto) > 30 then count(id_boleto) else 0 end as dias_30_mais
+from dl_Gestao_recursos.sbe_rf_distribuicao
+where dt_movimento >= '2017-01-01' 
+and cd_trader_digitacao in ('jose_pcarvalho',
+'brunomartins',
+'getulio_ost',
+'danilo_alencar',
+'andre_trierveiler',
+'reinaldo_siqueira',
+'wesley_pereira',
+'ankize_begnini',
+'eduardo_akiyama',
+'alana_ritzel',
+'julia_marasca',
+'dionatan_severo',
+'pedro_albino',
+'bruna_birck',
+'daniela_morsch',
+'cassio_xavier')
+
+group by dt_movimento
+, cd_trader_digitacao
+

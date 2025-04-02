@@ -1,0 +1,47 @@
+def plot_heatmap_for_correlation(returns_df, redemptions_df, min_window=1, max_window=30, max_lag=30, fl_lag=True):
+    for col in returns_df.columns:
+        correlations = []
+        lags = []
+        windows = []
+
+        if fl_lag:
+            min_lag = 7
+        else:
+            min_lag = max_lag
+
+        for lag in range(min_lag, max_lag,5):
+            for window in range(min_window, max_window + 1,10):
+                # Calcula a média dos retornos em janela móvel
+                rolling_returns = returns_df[col].rolling(window=window).sum()
+                rolling_redemptions = redemptions_df[col].rolling(window=lag).sum()
+                
+                # Desloca os retornos para frente (lag) para comparar com as captações futuras
+                performance_lagged = rolling_returns.shift(-lag)
+                
+                # Calcula a correlação com as captações
+                correlation = performance_lagged.corr(rolling_redemptions)
+                
+                correlations.append(correlation)
+                lags.append(lag)
+                windows.append(window)
+
+        heatmap_data = pd.DataFrame({'Lag': lags, 'Window': windows, 'Correlation': correlations})
+        heatmap_pivot = heatmap_data.pivot(index='Lag', columns='Window', values='Correlation')
+
+        fig = go.Figure(data=go.Heatmap(
+            z=heatmap_pivot.values,
+            x=heatmap_pivot.columns,
+            y=heatmap_pivot.index,
+            colorscale='Greys',
+            showscale=False,
+            text=heatmap_pivot.values,
+            texttemplate="%{text:.2f}"
+        ))
+
+        fig.update_layout(
+            title=f'Heatmap de Correlação para {col}',
+            xaxis_title='Window',
+            yaxis_title='Lag'
+        )
+
+        fig.show()

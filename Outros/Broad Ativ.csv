@@ -1,0 +1,60 @@
+Busca: ativi
+Código;Tipo;Fonte;Mercado;Descrição
+AACG;Ação;Nasdaq;A Vista;ATA CREATIVITY GLOBAL SPON ADS EACH REP 2 ORD SHS
+FI389307;Fundo;Anbima;A Vista;ATIVITA FUNDO DE INVESTIMENTO EM PARTICIPACOES
+FI452221;Fundo;Anbima;A Vista;BB NATIVIDADE FUNDO DE INVESTIMENTO MULTIMERCADO CRÉDITO PRIVADO LONGO PRAZO
+ENJU3T;Ação;Bovespa;Termo;ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.         , , Termo
+ENJU3;Ação;Bovespa;A Vista;ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.         , ON        , A Vista
+ENJU3L;Ação;Bovespa;Leilão;ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.         , ON        , Leilão
+ENJU3F;Ação;Bovespa;A Vista;ENJOEI.COM.BR ATIVIDADES DE INTERNET S.A.         , ON      NM, A Vista
+AEUIS1;Taxas e Indicadores;Broadcast;A Vista;Índice de atividade da economia nos setores de produção e emprego dos EUA - ISM
+IBCBR;Taxas e Indicadores;Broadcast;A Vista;Índice de Atividade Econômica do Banco Central (IBC-BR) - com ajuste sazonal
+IBCBRS;Taxas e Indicadores;Broadcast;A Vista;Índice de Atividade Econômica do Banco Central (IBC-BR) - sem ajuste sazonal
+USAFNAI;Taxas e Indicadores;Ind. Macro;A Vista;Índice de atividade nacional Chicago Fed, EUA - Action Economics
+EURPMIC;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de compra Markit composite, Zona Euro - Action Economics
+EURPMICF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de compra Markit composite, Zona Euro - Action Economics
+JPNPMIM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de compra Markit/JMMA, Japão - Action Economics
+GBRCIPSC;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de construção CIPS, Grã-Bretanha - Action Economics
+DEURPMIMAY;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de manufatura Markit flash, Alemanha - Action Economics
+USAMPMIMF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de manufatura Markit flash, EUA - Action Economics
+FRARPMIP;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de manufatura Markit flash, França - Action Economics
+EURPMIMF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de manufatura Markit flash, Zona Euro - Action Economics
+GBRCIPSS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de serviço CIPS PMI, Grã-Bretanha - Action Economics
+DEURPMISAY;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI flash, Alemanha - Action Economics
+FRAMPMISF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de serviço Markit PMI flash, França - Action Economics
+EURPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI flash, Zona Euro - Action Economics
+DEURPMISM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Alemanha - Action Economics
+BRAMPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Brasil - Action Economics
+USAMPS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, EUA - Action Economics
+USAMPSF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, EUA - Action Economics
+FRAMPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, França - Action Economics
+ITAPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Italia - Action Economics
+RUSPMISF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Russia - Action Economics
+EURPMISF;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Markit PMI, Zona Euro - Action Economics
+JPNMPMIS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade de Serviço Nikkei Markit PMI, Japão - Action Economics
+DEURPMIMM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Alemanha - Action Economics
+BRAMPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Brazil - Action Economics
+USAMPMIM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, EUA - Action Economics
+FRAMPMIM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, França - Action Economics
+ITAPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Italia - Action Economics
+RUSMPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Russia - Action Economics
+EURPMIM;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial Markit PMI, Zona Euro - Action Economics
+CHNPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial, China - Action Economics
+SGPPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de atividade industrial, Cingapura - Action Economics
+GBRCIPS;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial, Grã-Bretanha - Action Economics
+MEXMPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial, Mexico - Action Economics
+SWIPMI;Taxas e Indicadores;Ind. Macro;A Vista;Nível de Atividade Industrial, Suíça - Action Economics
+PIBAIMAAS-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, acum. ano at. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBAIMA2S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, acum. ult. 2 tri. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBAIMA4S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, acum. ult. 4 tri. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBAIMNIC-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, número índice, c. aju. saz. - IBGE
+PIBAIMNIS-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, número índice, s. aju. saz. - IBGE
+PIBAIMT2S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, tri. at. x mesmo tri. ano ant., em %, s. aju. saz. - IBGE
+PIBAIMT1C-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, atividades imobiliárias, tri. at. x tri. ant., em %, c. aju. saz. - IBGE
+PIBOASAAS-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, acum. ano at. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBOASA2S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, acum. ult. 2 tri. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBOASA4S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, acum. ult. 4 tri. x mesmo per. ano ant., em %, s. aju. saz. - IBGE
+PIBOASNIC-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, número índice, c. aju. saz. - IBGE
+PIBOASNIS-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, número índice, s. aju. saz. - IBGE
+PIBOAST2S-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, tri. at. x mesmo tri. ano ant., em %, s. aju. saz. - IBGE
+PIBOAST1C-AE;Taxas e Indicadores;Broadcast;A Vista;PIB Brasil, outras atividades de serviços, tri. at. x tri. ant., em %, c. aju. saz. - IBGE

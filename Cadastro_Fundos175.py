@@ -1,0 +1,304 @@
+import streamlit as st
+import pandas as pd
+import json
+
+import base64
+import requests
+import warnings
+
+#python -m streamlit run C:\Users\andre_trierveiler\Cadastro_Fundos175.py --server.address localhost --server.port 8545
+
+st.set_page_config(page_title="Cadastro de Fundos", layout="wide")
+ 
+warnings.simplefilter('ignore')
+ 
+producao_url = 'https://api.anbima.com.br/'
+sandbox_url = 'https://api-sandbox.anbima.com.br/'
+id_url = 'https://api.anbima.com.br/oauth/access-token'
+ 
+### Define se dados vem de ambiente de producao ou sandbox ###
+producao = True
+oculta_nulos =False
+
+
+
+    
+if producao:
+  url = producao_url
+  client_id = "wRGlvlj1bOW3"
+  client_secret = "l4riAuRd0CUL"
+  client_credentials = "wRGlvlj1bOW3:l4riAuRd0CUL"
+ 
+else:
+  url = sandbox_url
+  client_id = "nZqmOGEuh6bg"
+  client_secret = "BMXhChrji7ca"
+  client_credentials = "nZqmOGEuh6bg:BMXhChrji7ca"
+ 
+ 
+client_credentials = client_credentials.encode('ascii')
+senhabytes = base64.b64encode(client_credentials)
+senha = base64.b64decode(senhabytes)
+ 
+ 
+def conectar(client_id, client_secret, client_credentials, url=url):
+    client_credentials = client_credentials.encode('ascii')
+    senhabytes = base64.b64encode(client_credentials)
+    senha = base64.b64decode(senhabytes)
+ 
+    body = {"grant_type": "client_credentials" }
+ 
+    headers = {
+            'content-type': 'application/json',
+            'Authorization': 'Basic d1JHbHZsajFiT1czOmw0cmlBdVJkMENVTA=='}
+    
+    request = requests.post(id_url, headers=headers, json=body, allow_redirects=True)
+    informacoes = request.json()
+    token = informacoes['access_token'] 
+    
+    return { "content-type": "application/json",
+            "client_id": f"{client_id}",
+            "access_token": f"{token}"}
+ 
+### Header Sandbox ###  
+headers2 = conectar('nZqmOGEuh6bg', 'BMXhChrji7ca','nZqmOGEuh6bg:BMXhChrji7ca', url)
+ 
+####  Header produção###
+headers3 = conectar('wRGlvlj1bOW3', 'l4riAuRd0CUL','wRGlvlj1bOW3:l4riAuRd0CUL', url)
+
+
+#### Atualizar Cadastro Total de Fundos ######
+autaliza_cadastro = 1
+if autaliza_cadastro == 1:
+    df_cadastro = pd.DataFrame() 
+    size = 1000
+    pages = 50   
+    for i in range(1,pages):
+        fundos_http = f'{url}feed/fundos/v2/fundos?page={i}&size=1000' #tamanho máximo 1000, 32 paginas totais
+        fundos = requests.get(fundos_http, headers=headers3)
+        try:
+            fundos_json = fundos.json()
+        except ValueError:
+            headers3 = conectar('wRGlvlj1bOW3', 'l4riAuRd0CUL','wRGlvlj1bOW3:l4riAuRd0CUL', url)
+            fundos_json = fundos.json()
+            i = i-1
+        df = pd.json_normalize(fundos_json['content'])
+        df['page'] = i
+        df_cadastro = pd.concat([df_cadastro,df])
+        if len(df) < 1000:
+            break
+    df_cadastro = df_cadastro[df_cadastro['data_encerramento_fundo'].isnull()].reset_index(drop=True)
+    df_cadastro.to_csv('cadastro_fundos.csv', index=False)
+
+
+
+
+df_fundos_det_cadastro = pd.DataFrame()
+df_classes =  pd.DataFrame()
+df_subclasses = pd.DataFrame()
+
+#####Lista Fundo por CNPJ ##############
+#lista_fundos = ['18466245000174','11328882000135','11484558000106','10740670000106','12265822000183','08703063000116','19196599000109']
+lista_fundos = ['46133770000103', '01608573000165', '50803123000139',   '04150666000187', '04700351000166']
+    
+lista = df_cadastro[['codigo_fundo','nome_comercial_fundo','identificador_fundo']][df_cadastro['identificador_fundo'].isin(lista_fundos)].reset_index(drop=True)
+    
+for codigo_fundo in lista.codigo_fundo:
+        fundos_det_http = f'{url}feed/fundos/v2/fundos/{codigo_fundo}'
+        fundos_det = requests.get(fundos_det_http, headers=headers3)
+        try:
+            fundos_det_json = fundos_det.json()
+        except ValueError:
+            print('Erro')
+            print(codigo_fundo)
+            headers = conectar('wRGlvlj1bOW3', 'l4riAuRd0CUL','wRGlvlj1bOW3:l4riAuRd0CUL', url)
+        #dados_cadastrais = pd.json_normalize(fundos_det_json['dados-cadastrais'])
+        fundo_det_cadastro = pd.json_normalize(fundos_det_json)
+        #json_cadastro_total = json_cadastro_total.append(fundos_det_json)
+        fundo_det_cadastro = pd.json_normalize(fundos_det_json)
+        #json_cadastro_total = json_cadastro_total.append(fundos_det_json)
+        df_fundos_det_cadastro = pd.concat([df_fundos_det_cadastro,fundo_det_cadastro], ignore_index=True)       
+
+        fundos_det_classes = pd.json_normalize(fundos_det_json['classes'])
+        df_classes = pd.concat([df_classes, fundos_det_classes], ignore_index=True)
+        subclasses = []
+        for classe in fundos_det_json['classes']:
+            if 'subclasses' in classe:
+                if classe['subclasses'] != None:
+                    print(classe['codigo_classe'])
+                    #subclasses_temp = pd.DataFrame(classe['subclasses'])
+                    subclasses_temp = pd.json_normalize(classe['subclasses'])
+                    subclasses_temp['codigo_fundo'] = codigo_fundo
+                    subclasses_temp['codigo_classe'] = classe['codigo_classe']
+                    subclasses.append(subclasses_temp)      
+                    subclasses = pd.concat(subclasses, ignore_index=True)
+                    df_subclasses = pd.concat([df_subclasses,subclasses], ignore_index=True)
+
+
+        
+
+lista_tipos = df_cadastro['tipo_fundo'].unique()
+tipo_padrao = "FIF"  # Substitua pelo valor padrão desejado
+
+# Definir o valor padrão no menu suspenso
+if tipo_padrao in lista_tipos:
+    tipo = st.selectbox("Selecione o tipo de fundo:", list(lista_tipos), index=list(lista_tipos).index(tipo_padrao))
+else:
+    tipo = st.selectbox("Selecione o tipo de fundo:", list(lista_tipos))
+
+
+
+df_lista =   df_cadastro[df_cadastro['tipo_fundo'] == tipo][['razao_social_fundo','codigo_fundo']]
+dict_lista = df_lista.to_dict(orient='records')
+fundos_lista = dict_lista
+
+# Criar dicionário para mapear nome comercial ao código do fundo
+nome_para_codigo = {fundo['razao_social_fundo']: fundo['codigo_fundo'] for fundo in fundos_lista}
+
+# Dropdown para selecionar o fundo (exibe o nome comercial)
+nome_selecionado = st.selectbox("Selecione o fundo:", list(nome_para_codigo.keys()))
+
+# Obter o codigo_fundo correspondente ao nome selecionado
+codigo_fundo = nome_para_codigo[nome_selecionado]
+
+
+# Marca se quer ocular nulos
+oculta_nulos= st.checkbox('Ocultar Campos Nulos')
+if oculta_nulos == True:
+    lista_nd = ['none', 'não disponível', 'nao disponível', 'não se aplica', 'nao se aplica', None]
+else:
+    lista_nd = ['aaaaaaaaaaaaaaaaaaaasdasd']   
+    
+#codigo_fundo = 'F0000127671'
+fundos_det_http = f'{url}feed/fundos/v2/fundos/{codigo_fundo}'
+fundos_det = requests.get(fundos_det_http, headers=headers3)
+
+try:
+    headers3 = conectar('wRGlvlj1bOW3', 'l4riAuRd0CUL','wRGlvlj1bOW3:l4riAuRd0CUL', url)
+    fundos_det_json = fundos_det.json()
+except ValueError:
+    print('Erro')
+    print(codigo_fundo)
+    headers3 = conectar('wRGlvlj1bOW3', 'l4riAuRd0CUL','wRGlvlj1bOW3:l4riAuRd0CUL', url)
+
+fundo_det_cadastro = pd.json_normalize(fundos_det_json)
+
+    
+fundo_data = fundos_det_json
+
+
+# Função para exibir informações simples (nomes de campos em negrito) em formato de texto
+def exibir_informacoes_texto(dataframe):
+    for index, row in dataframe.iterrows():
+        for col in dataframe.columns:
+            if not isinstance(row[col], (list, dict)):  # Exibir apenas campos simples
+               if row[col] in lista_nd or str(row[col]).lower() in lista_nd:
+                   if oculta_nulos == True:
+                    continue
+               st.write(f"**{col}**: {row[col]}".replace('_', ' ').title())  # Nome do campo em negrito
+        st.write("---")
+ 
+    
+def exibir_informacoes_dict(dicionario, exibir_como_tabela=['nd']):
+        
+    for chave, valor in dicionario.items():
+        # Ignorar valores nulos ou irrelevantes
+        if valor in lista_nd or str(valor).lower() in lista_nd:
+            continue
+        
+        if not isinstance(valor, (list, dict)):
+            st.write(f"**{chave}:** {valor}".replace('_', ' ').title())
+        
+    st.write("---")
+    
+    for chave, valor in dicionario.items():
+        # Ignorar valores nulos ou irrelevantes
+        if valor in lista_nd or str(valor).lower() in lista_nd:
+            continue
+        # Se o valor for uma lista e deve ser exibido como tabela
+        if isinstance(valor, list) and chave in exibir_como_tabela:
+            if len(valor) > 0:
+                st.subheader(f"{chave} (Tabela)".replace('_', ' ').title())
+                st.table(pd.DataFrame(valor))  # Exibir a lista como tabela usando DataFrame
+
+        # Se o valor for uma lista e não deve ser exibido como tabela
+        elif isinstance(valor, list):
+            if len(valor) > 0:
+                st.subheader(f"{chave} (Lista)".replace('_', ' ').title())
+                for item in valor:
+                    if isinstance(item, dict):
+                        #continue
+                        exibir_informacoes_dict(item, exibir_como_tabela=['faixas_escalonamento'])  # Chamada recursiva se o item for um dicionário
+                    else:
+                        st.write(f"- {item}".replace('_', ' '))
+
+        # Se o valor for um dicionário
+        elif isinstance(valor, dict):
+            st.subheader(f"{chave} (Detalhes)".replace('_', ' ').title())
+            exibir_informacoes_dict(valor, exibir_como_tabela)  # Chamada recursiva para o dicionário
+
+        # Caso contrário, exibir como chave-valor
+        else:
+            continue
+
+# Função para fazer o download do PDF com headers de autenticação
+def baixar_pdf(url, headers):
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        # O conteúdo do PDF está no formato binário
+        return response.content
+    else:
+        st.error(f"Erro ao acessar o PDF. Status Code: {response.status_code}")
+        return None
+
+# Normalizar os dados principais do JSON
+df_fundo = pd.json_normalize(fundo_data, sep='_')
+prestadores_fundo_df = pd.json_normalize(fundo_data, record_path=['prestadores_fundo'], meta=['codigo_fundo'], sep=' : ')
+documentos_df =  pd.json_normalize(fundo_data, record_path=['documentos'], meta=['codigo_fundo'], sep=' : ')
+classes_df = pd.json_normalize(fundo_data, record_path=['classes'], meta=['codigo_fundo'], sep=' : ')
+indices_benchmark_df = pd.json_normalize(fundo_data, record_path=['classes', 'indices_benchmark'], meta=['codigo_fundo'], sep=' : ')
+sufixos_df = pd.json_normalize(fundo_data, record_path=['classes', 'sufixos'], meta=['codigo_fundo'], sep=' : ')
+subclasses_df = pd.json_normalize(fundo_data, record_path=['classes', 'subclasses'], meta=['codigo_fundo'], sep=' : ')
+
+# Definir o título principal com base no valor de "nome_comercial_fundo"
+nome_comercial_fundo = df_fundo['nome_comercial_fundo'][0]  # Pegando o valor do nome_comercial_fundo
+st.title(f"{nome_comercial_fundo}")
+
+# Exibir "Dados do Fundo" e "Prestadores do Fundo" dentro de expanders
+with st.expander("Informações do Fundo"):
+    exibir_informacoes_texto(df_fundo)
+
+with st.expander("Prestadores do Fundo"):
+    exibir_informacoes_texto(prestadores_fundo_df)
+
+with st.expander("Documentos do Fundo"):
+    exibir_informacoes_texto(documentos_df)
+    pdf_url = documentos_df.url[0]
+    conteudo_pdf = baixar_pdf(pdf_url, headers3)
+
+    if conteudo_pdf:
+        st.download_button(label="Baixar Regulamento PDF", data=conteudo_pdf, file_name=f'Regulamento_Fundo_{codigo_fundo}.pdf', mime='application/pdf')
+    if conteudo_pdf:
+    # Gerar um link para abrir o PDF em uma nova aba
+        pdf_display = f'<a href="{pdf_url}" target="_blank">Abrir Regulamento do Fundo em outra aba</a>'
+        st.markdown(pdf_display, unsafe_allow_html=True)
+     
+
+
+
+st.header("Classes e SubClasses")
+for classe in fundo_data['classes']:
+    classe_nome = classe['nome_comercial_classe']
+    with st.expander(f"Classe: {classe_nome} - teste"):
+         st.subheader("Informações da Classe")
+         exibir_informacoes_dict(classe, exibir_como_tabela=['prestadores_classe','faixas_escalonamento','taxas_entrada_saida_classe'])
+for classe in fundo_data['classes']:
+    if classe['subclasses'] != None:   
+        for subclasse in classe['subclasses']:
+            if subclasse['nome_comercial_subclasse'] != None:   
+                subclasse_nome = subclasse['nome_comercial_subclasse']
+                with st.expander(f"SubClasse: {subclasse_nome} - teste"):
+                     st.subheader("Informações da SubClasse")
+                     exibir_informacoes_dict(subclasse, exibir_como_tabela=['prestadores_subclasse','faixas_escalonamento','taxas_entrada_saida_subclasse'])
+
+    
