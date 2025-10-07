@@ -1,0 +1,19 @@
+    cores_sicredi1 = ['#3FA110','#46D7FF','#FF6400','#730028','#FFC000','#730028','#8D8D8D','#D0F7A6']
+    cores_sicredi2= ['#66C5CC', '#F6CF71','#8cc770', '#ffa266', '#90e7ff', '#ab667e', '#ffd966', '#ab667e', '#bbbbbb', '#e3faca']
+    cores_sicredi3 = ['#66C5CC', '#F6CF71', '#d3f5ff', '#ddc2cb', '#fff0c2', '#ddc2cb', '#e4e4e4', '#f4fdea']
+    cores_sicredi4 = ['#9ac796', '#ffa95a', '#9ecae1', '#96967b', '#ecd58c', '#c87b99', '#d6c4c8', '#d9d3ca']
+    cores_sicredi5 = px.colors.qualitative.Pastel
+    cores_sicredi6 = ['#146E37','#D7E6C8','#5A3C1E','#FFCD00','#5A645A',      '#E60050','#730028','#46D7FF','#FF6400',     '#3FA110','#3FA110','#ED5A6C',      '#323C32'    ]
+    cores_sicredi7 = ['#3FA110',  '#5A3C1E', '#FFCD00', '#E60050','#730028','#46D7FF','#FF6400',    '#ED5A6C',      '#323C32'    ]
+    cores_sicredi8  = ['#3FA110', '#FF6400','#46D7FF',  '#E60050','#FFCD00','#5A3C1E','#146E37', '#5A645A','#323C32']
+    cores_sicredi9 = ['#9fd088', '#ffb280', '#a2ebff', '#f280a8', '#ffe680', '#ac9e8e', '#8ab69b', '#acb2ac', '#989e98']
+
+    tons_azul = ['#0F3073', '#A0DAF8', '#5BC5F2']
+    tons_verde = ['#194006',   '#65ff1a',  '#3fa110', '#ddc2cb', '#fff0c2', '#ddc2cb', '#e4e4e4', '#f4fdea']  
+    tons_verde = ['#758c6a',   '#a3ff76',  '#8cc770']  
+    tons_azul2 = ['#0F3073', '#A0DAF8', '#5BC5F2','#ddc2cb', '#fff0c2', '#ddc2cb', '#e4e4e4', '#f4fdea']  
+    teste = ['#0F3073', '#A0DAF8', '#5BC5F2']
+    tons_verde3 = ['#758c6a',  '#9ac796',   '#8cc770', '#5BC5F2','#ddc2cb', '#fff0c2', '#ddc2cb', '#e4e4e4', '#f4fdea']  
+    pastel_palette = ['#A1D99B', '#9ECAE1', '#FDD0A2', '#D4B9DA', '#C7E9C0', '#BABABA', '#FCCDE5', '#D9D9D9']
+    
+    cores_sicredi2 = cores_sicredi5
